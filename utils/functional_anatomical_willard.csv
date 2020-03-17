@@ -1,0 +1,499 @@
+,index,roi,network,1_y,2,3,4,5,6,7,8
+0,1,1,unlabeled,roi_0001_no_overlap.rex.tal,46,Cuneus_R,Cuneus,CUN.R,13.51,-79.36,28.23
+1,2,2,unlabeled,roi_0002_no_overlap.rex.tal,43,Calcarine_L,Calcarine fissure and surrounding cortex,CAL.L,-7.14,-78.67,6.44
+2,3,3,unlabeled,roi_0003_no_overlap.rex.tal,20,Supp_Motor_Area_R,Supplementary motor area,SMA.R,8.62,0.17,61.85
+3,4,4,unlabeled,roi_0004_no_overlap.rex.tal,27,Rectus_L,Gyrus rectus,REC.L,-5.08,37.07,-18.14
+4,5,5,unlabeled,roi_0005_no_overlap.rex.tal,59,Parietal_Sup_L,Superior parietal gyrus,SPG.L,-23.45,-59.56,58.96
+5,6,6,unlabeled,roi_0006_no_overlap.rex.tal,65,Angular_L,Angular gyrus,ANG.L,-44.14,-60.82,35.59
+6,7,7,unlabeled,roi_0007_no_overlap.rex.tal,47,Lingual_L,Lingual gyrus,LING.L,-14.62,-67.56,-4.63
+7,8,8,unlabeled,roi_0008_no_overlap.rex.tal,23,Frontal_Sup_Medial_L,Superior frontal gyrus medial,SFGmed.L,-4.8,49.17,30.89
+8,9,9,unlabeled,roi_0009_no_overlap.rex.tal,64,SupraMarginal_R,Supramarginal gyrus,SMG.R,57.61,-31.5,34.48
+9,10,10,unlabeled,roi_0010_no_overlap.rex.tal,55,Fusiform_L,Fusiform gyrus,FFG.L,-31.16,-40.3,-20.23
+10,11,11,unlabeled,roi_0011_no_overlap.rex.tal,34,Cingulum_Mid_R,Median cingulate and paracingulate gyri,DCG.R,8.02,-8.83,39.79
+11,12,12,unlabeled,roi_0012_no_overlap.rex.tal,63,SupraMarginal_L,Supramarginal gyrus,SMG.L,-55.79,-33.64,30.45
+12,13,13,unlabeled,roi_0013_no_overlap.rex.tal,89,Temporal_Inf_L,Inferior temporal gyrus,ITG.L,-49.77,-28.05,-23.17
+13,14,14,unlabeled,roi_0014_no_overlap.rex.tal,47,Lingual_L,Lingual gyrus,LING.L,-14.62,-67.56,-4.63
+14,15,15,unlabeled,roi_0015_no_overlap.rex.tal,73,Putamen_L,Lenticular nucleus putamen,PUT.L,-23.91,3.86,2.4
+15,16,16,unlabeled,roi_0016_no_overlap.rex.tal,43,Calcarine_L,Calcarine fissure and surrounding cortex,CAL.L,-7.14,-78.67,6.44
+16,17,17,unlabeled,roi_0017_no_overlap.rex.tal,5,Frontal_Sup_Orb_L,Superior frontal gyrus orbital part,ORBsup.L,-16.56,47.32,-13.31
+17,18,18,unlabeled,roi_0018_no_overlap.rex.tal,77,Thalamus_L,Thalamus,THA.L,-10.85,-17.56,7.98
+18,19,19,unlabeled,roi_0019_no_overlap.rex.tal,79,Heschl_L,Heschl gyrus,HES.L,-41.99,-18.88,9.98
+19,20,20,unlabeled,roi_0020_no_overlap.rex.tal,55,Fusiform_L,Fusiform gyrus,FFG.L,-31.16,-40.3,-20.23
+20,21,21,unlabeled,roi_0021_no_overlap.rex.tal,57,Postcentral_L,Postcentral gyrus,PoCG.L,-42.46,-22.63,48.92
+21,22,22,unlabeled,roi_0022_no_overlap.rex.tal,80,Heschl_R,Heschl gyrus,HES.R,45.86,-17.15,10.41
+22,23,23,unlabeled,roi_0023_no_overlap.rex.tal,33,Cingulum_Mid_L,Median cingulate and paracingulate gyri,DCG.L,-5.48,-14.92,41.57
+23,24,24,unlabeled,roi_0024_no_overlap.rex.tal,14,Frontal_Inf_Tri_R,Inferior frontal gyrus triangular part,IFGtriang.R,50.33,30.16,14.17
+24,25,25,unlabeled,roi_0025_no_overlap.rex.tal,55,Fusiform_L,Fusiform gyrus,FFG.L,-31.16,-40.3,-20.23
+25,26,26,unlabeled,roi_0026_no_overlap.rex.tal,1,Precentral_L,Precental gyrus,PreCG.L,-38.65,-5.68,50.94
+26,27,27,unlabeled,roi_0027_no_overlap.rex.tal,20,Supp_Motor_Area_R,Supplementary motor area,SMA.R,8.62,0.17,61.85
+27,28,28,unlabeled,roi_0028_no_overlap.rex.tal,83,Temporal_Pole_Sup_L,Temporal pole superior temporal gyrus,TPOsup.L,-39.88,15.14,-20.18
+28,29,29,unlabeled,roi_0029_no_overlap.rex.tal,56,Fusiform_R,Fusiform gyrus,FFG.R,33.97,-39.1,-20.18
+29,30,30,unlabeled,roi_0030_no_overlap.rex.tal,48,Lingual_R,Lingual gyrus,LING.R,16.29,-66.93,-3.87
+30,31,31,unlabeled,roi_0031_no_overlap.rex.tal,58,Postcentral_R,Postcentral gyrus,PoCG.R,41.43,-25.49,52.55
+31,32,32,unlabeled,roi_0032_no_overlap.rex.tal,50,Occipital_Sup_R,Superior occipital gyrus,SOG.R,24.29,-80.85,30.59
+32,33,33,unlabeled,roi_0033_no_overlap.rex.tal,69,Paracentral_Lobule_L,Paracentral lobule,PCL.L,-7.63,-25.36,70.07
+33,34,34,unlabeled,roi_0034_no_overlap.rex.tal,22,Olfactory_R,Olfactory cortex,OLF.R,10.43,15.91,-11.26
+34,35,35,unlabeled,roi_0035_no_overlap.rex.tal,47,Lingual_L,Lingual gyrus,LING.L,-14.62,-67.56,-4.63
+35,36,36,unlabeled,roi_0036_no_overlap.rex.tal,55,Fusiform_L,Fusiform gyrus,FFG.L,-31.16,-40.3,-20.23
+36,37,37,unlabeled,roi_0037_no_overlap.rex.tal,25,Frontal_Mid_Orb_L,Superior frontal gyrus medial orbital,ORBsupmed.L,-5.17,54.06,-7.4
+37,38,38,unlabeled,roi_0038_no_overlap.rex.tal,62,Parietal_Inf_R,Inferior parietal but supramarginal and angular gyri,IPL.R,46.46,-46.29,49.54
+38,39,39,unlabeled,roi_0039_no_overlap.rex.tal,52,Occipital_Mid_R,Middle occipital gyrus,MOG.R,37.39,-79.7,19.42
+39,41,41,unlabeled,roi_0041_no_overlap.rex.tal,70,Paracentral_Lobule_R,Paracentral lobule,PCL.R,7.48,-31.59,68.09
+40,42,42,unlabeled,roi_0042_no_overlap.rex.tal,85,Temporal_Mid_L,Middle temporal gyrus,MTG.L,-55.52,-33.8,-2.2
+41,43,43,unlabeled,roi_0043_no_overlap.rex.tal,53,Occipital_Inf_L,Inferior occipital gyrus,IOG.L,-36.36,-78.29,-7.84
+42,44,44,unlabeled,roi_0044_no_overlap.rex.tal,2,Precentral_R,Precental gyrus,PreCG.R,41.37,-8.21,52.09
+43,45,45,unlabeled,roi_0045_no_overlap.rex.tal,55,Fusiform_L,Fusiform gyrus,FFG.L,-31.16,-40.3,-20.23
+44,46,46,unlabeled,roi_0046_no_overlap.rex.tal,9,Frontal_Mid_Orb_L,Middle frontal gyrus orbital part,ORBmid.L,-30.65,50.43,-9.62
+45,47,47,unlabeled,roi_0047_no_overlap.rex.tal,45,Cuneus_L,Cuneus,CUN.L,-5.93,-80.13,27.22
+46,48,48,unlabeled,roi_0048_no_overlap.rex.tal,86,Temporal_Mid_R,Middle temporal gyrus,MTG.R,57.47,-37.23,-1.47
+47,49,49,unlabeled,roi_0049_no_overlap.rex.tal,17,Rolandic_Oper_L,Rolandic operculum,ROL.L,-47.16,-8.48,13.95
+48,50,50,unlabeled,roi_0050_no_overlap.rex.tal,21,Olfactory_L,Olfactory cortex,OLF.L,-8.06,15.05,-11.46
+49,51,51,unlabeled,roi_0051_no_overlap.rex.tal,63,SupraMarginal_L,Supramarginal gyrus,SMG.L,-55.79,-33.64,30.45
+50,52,52,unlabeled,roi_0052_no_overlap.rex.tal,16,Frontal_Inf_Orb_R,Inferior frontal gyrus orbital part,ORBinf.R,41.22,32.23,-11.91
+51,53,53,unlabeled,roi_0053_no_overlap.rex.tal,32,Cingulum_Ant_R,Anterior cingulate and paracingulate gyri,ACG.R,8.46,37.01,15.84
+52,54,54,unlabeled,roi_0054_no_overlap.rex.tal,69,Paracentral_Lobule_L,Paracentral lobule,PCL.L,-7.63,-25.36,70.07
+53,55,55,unlabeled,roi_0055_no_overlap.rex.tal,16,Frontal_Inf_Orb_R,Inferior frontal gyrus orbital part,ORBinf.R,41.22,32.23,-11.91
+54,56,56,unlabeled,roi_0056_no_overlap.rex.tal,13,Frontal_Inf_Tri_L,Inferior frontal gyrus triangular part,IFGtriang.L,-45.58,29.91,13.99
+55,57,57,unlabeled,roi_0057_no_overlap.rex.tal,2,Precentral_R,Precental gyrus,PreCG.R,41.37,-8.21,52.09
+56,58,58,unlabeled,roi_0058_no_overlap.rex.tal,47,Lingual_L,Lingual gyrus,LING.L,-14.62,-67.56,-4.63
+57,59,59,unlabeled,roi_0059_no_overlap.rex.tal,22,Olfactory_R,Olfactory cortex,OLF.R,10.43,15.91,-11.26
+58,60,60,unlabeled,roi_0060_no_overlap.rex.tal,53,Occipital_Inf_L,Inferior occipital gyrus,IOG.L,-36.36,-78.29,-7.84
+59,61,61,unlabeled,roi_0061_no_overlap.rex.tal,48,Lingual_R,Lingual gyrus,LING.R,16.29,-66.93,-3.87
+60,62,62,unlabeled,roi_0062_no_overlap.rex.tal,83,Temporal_Pole_Sup_L,Temporal pole superior temporal gyrus,TPOsup.L,-39.88,15.14,-20.18
+61,63,63,unlabeled,roi_0063_no_overlap.rex.tal,56,Fusiform_R,Fusiform gyrus,FFG.R,33.97,-39.1,-20.18
+62,64,64,unlabeled,roi_0064_no_overlap.rex.tal,88,Temporal_Pole_Mid_R,Temporal pole middle temporal gyrus,TPOmid.R,44.22,14.55,-32.23
+63,65,65,unlabeled,roi_0065_no_overlap.rex.tal,39,ParaHippocampal_L,Parahippocampal gyrus,PHG.L,-21.17,-15.95,-20.7
+64,66,66,unlabeled,roi_0066_no_overlap.rex.tal,26,Frontal_Mid_Orb_R,Superior frontal gyrus medial orbital,ORBsupmed.R,8.16,51.67,-7.13
+65,67,67,unlabeled,roi_0067_no_overlap.rex.tal,44,Calcarine_R,Calcarine fissure and surrounding cortex,CAL.R,15.99,-73.15,9.4
+66,68,68,unlabeled,roi_0068_no_overlap.rex.tal,70,Paracentral_Lobule_R,Paracentral lobule,PCL.R,7.48,-31.59,68.09
+67,69,69,unlabeled,roi_0069_no_overlap.rex.tal,48,Lingual_R,Lingual gyrus,LING.R,16.29,-66.93,-3.87
+68,70,70,unlabeled,roi_0070_no_overlap.rex.tal,58,Postcentral_R,Postcentral gyrus,PoCG.R,41.43,-25.49,52.55
+69,71,71,unlabeled,roi_0071_no_overlap.rex.tal,32,Cingulum_Ant_R,Anterior cingulate and paracingulate gyri,ACG.R,8.46,37.01,15.84
+70,72,72,unlabeled,roi_0072_no_overlap.rex.tal,7,Frontal_Mid_L,Middle frontal gyrus,MFG.L,-33.43,32.73,35.46
+71,73,73,unlabeled,roi_0073_no_overlap.rex.tal,86,Temporal_Mid_R,Middle temporal gyrus,MTG.R,57.47,-37.23,-1.47
+72,74,74,unlabeled,roi_0074_no_overlap.rex.tal,36,Cingulum_Post_R,Posterior cingulate gyrus,PCG.R,7.44,-41.81,21.87
+73,75,75,unlabeled,roi_0075_no_overlap.rex.tal,19,Supp_Motor_Area_L,Supplementary motor area,SMA.L,-5.32,4.85,61.38
+74,76,76,unlabeled,roi_0076_no_overlap.rex.tal,54,Occipital_Inf_R,Inferior occipital gyrus,IOG.R,38.16,-81.99,-7.61
+75,77,77,unlabeled,roi_0077_no_overlap.rex.tal,14,Frontal_Inf_Tri_R,Inferior frontal gyrus triangular part,IFGtriang.R,50.33,30.16,14.17
+76,78,78,unlabeled,roi_0078_no_overlap.rex.tal,3,Frontal_Sup_L,Superior frontal gyrus dorsolateral,SFGdor.L,-18.45,34.81,42.2
+77,79,79,unlabeled,roi_0079_no_overlap.rex.tal,65,Angular_L,Angular gyrus,ANG.L,-44.14,-60.82,35.59
+78,80,80,unlabeled,roi_0080_no_overlap.rex.tal,15,Frontal_Inf_Orb_L,Inferior frontal gyrus orbital part,ORBinf.L,-35.98,30.71,-12.11
+79,81,81,unlabeled,roi_0081_no_overlap.rex.tal,36,Cingulum_Post_R,Posterior cingulate gyrus,PCG.R,7.44,-41.81,21.87
+80,82,82,unlabeled,roi_0082_no_overlap.rex.tal,83,Temporal_Pole_Sup_L,Temporal pole superior temporal gyrus,TPOsup.L,-39.88,15.14,-20.18
+81,83,83,unlabeled,roi_0083_no_overlap.rex.tal,1,Precentral_L,Precental gyrus,PreCG.L,-38.65,-5.68,50.94
+82,84,84,unlabeled,roi_0084_no_overlap.rex.tal,16,Frontal_Inf_Orb_R,Inferior frontal gyrus orbital part,ORBinf.R,41.22,32.23,-11.91
+83,85,85,unlabeled,roi_0085_no_overlap.rex.tal,58,Postcentral_R,Postcentral gyrus,PoCG.R,41.43,-25.49,52.55
+84,86,86,unlabeled,roi_0086_no_overlap.rex.tal,56,Fusiform_R,Fusiform gyrus,FFG.R,33.97,-39.1,-20.18
+85,87,87,unlabeled,roi_0087_no_overlap.rex.tal,12,Frontal_Inf_Oper_R,Inferior frontal gyrus opercular part,IFGoperc.R,50.2,14.98,21.41
+86,88,88,unlabeled,roi_0088_no_overlap.rex.tal,40,ParaHippocampal_R,Parahippocampal gyrus,PHG.R,25.38,-15.15,-20.47
+87,89,89,unlabeled,roi_0089_no_overlap.rex.tal,56,Fusiform_R,Fusiform gyrus,FFG.R,33.97,-39.1,-20.18
+88,90,90,unlabeled,roi_0090_no_overlap.rex.tal,43,Calcarine_L,Calcarine fissure and surrounding cortex,CAL.L,-7.14,-78.67,6.44
+89,91,91,unlabeled,roi_0091_no_overlap.rex.tal,90,Temporal_Inf_R,Inferior temporal gyrus,ITG.R,53.69,-31.07,-22.32
+90,92,92,unlabeled,roi_0092_no_overlap.rex.tal,2,Precentral_R,Precental gyrus,PreCG.R,41.37,-8.21,52.09
+91,93,93,unlabeled,roi_0093_no_overlap.rex.tal,64,SupraMarginal_R,Supramarginal gyrus,SMG.R,57.61,-31.5,34.48
+92,94,94,unlabeled,roi_0094_no_overlap.rex.tal,47,Lingual_L,Lingual gyrus,LING.L,-14.62,-67.56,-4.63
+93,95,95,unlabeled,roi_0095_no_overlap.rex.tal,40,ParaHippocampal_R,Parahippocampal gyrus,PHG.R,25.38,-15.15,-20.47
+94,96,96,unlabeled,roi_0096_no_overlap.rex.tal,74,Putamen_R,Lenticular nucleus putamen,PUT.R,27.78,4.91,2.46
+95,97,97,unlabeled,roi_0097_no_overlap.rex.tal,87,Temporal_Pole_Mid_L,Temporal pole middle temporal gyrus,TPOmid.L,-36.32,14.59,-34.08
+96,98,98,unlabeled,roi_0098_no_overlap.rex.tal,29,Insula_L,Insula,INS.L,-35.13,6.65,3.44
+97,99,99,unlabeled,roi_0099_no_overlap.rex.tal,18,Rolandic_Oper_R,Rolandic operculum,ROL.R,52.65,-6.25,14.63
+98,100,100,unlabeled,roi_0100_no_overlap.rex.tal,7,Frontal_Mid_L,Middle frontal gyrus,MFG.L,-33.43,32.73,35.46
+99,101,101,unlabeled,roi_0101_no_overlap.rex.tal,1,Precentral_L,Precental gyrus,PreCG.L,-38.65,-5.68,50.94
+100,102,102,unlabeled,roi_0102_no_overlap.rex.tal,82,Temporal_Sup_R,Superior temporal gyrus,STG.R,58.15,-21.78,6.8
+101,103,103,unlabeled,roi_0103_no_overlap.rex.tal,10,Frontal_Mid_Orb_R,Middle frontal gyrus orbital part,ORBmid.R,33.18,52.59,-10.73
+102,104,104,unlabeled,roi_0104_no_overlap.rex.tal,70,Paracentral_Lobule_R,Paracentral lobule,PCL.R,7.48,-31.59,68.09
+103,105,105,unlabeled,roi_0105_no_overlap.rex.tal,51,Occipital_Mid_L,Middle occipital gyrus,MOG.L,-32.39,-80.73,16.11
+104,106,106,unlabeled,roi_0106_no_overlap.rex.tal,6,Frontal_Sup_Orb_R,Superior frontal gyrus orbital part,ORBsup.R,18.49,48.1,-14.02
+105,107,107,unlabeled,roi_0107_no_overlap.rex.tal,85,Temporal_Mid_L,Middle temporal gyrus,MTG.L,-55.52,-33.8,-2.2
+106,108,108,unlabeled,roi_0108_no_overlap.rex.tal,10,Frontal_Mid_Orb_R,Middle frontal gyrus orbital part,ORBmid.R,33.18,52.59,-10.73
+107,109,109,unlabeled,roi_0109_no_overlap.rex.tal,20,Supp_Motor_Area_R,Supplementary motor area,SMA.R,8.62,0.17,61.85
+108,110,110,unlabeled,roi_0110_no_overlap.rex.tal,41,Amygdala_L,Amygdala,AMYG.L,-23.27,-0.67,-17.14
+109,111,111,unlabeled,roi_0111_no_overlap.rex.tal,24,Frontal_Sup_Medial_R,Superior frontal gyrus medial,SFGmed.R,9.1,50.84,30.22
+110,112,112,unlabeled,roi_0112_no_overlap.rex.tal,60,Parietal_Sup_R,Superior parietal gyrus,SPG.R,26.11,-59.18,62.06
+111,113,113,unlabeled,roi_0113_no_overlap.rex.tal,7,Frontal_Mid_L,Middle frontal gyrus,MFG.L,-33.43,32.73,35.46
+112,114,114,unlabeled,roi_0114_no_overlap.rex.tal,43,Calcarine_L,Calcarine fissure and surrounding cortex,CAL.L,-7.14,-78.67,6.44
+113,115,115,unlabeled,roi_0115_no_overlap.rex.tal,39,ParaHippocampal_L,Parahippocampal gyrus,PHG.L,-21.17,-15.95,-20.7
+114,116,116,unlabeled,roi_0116_no_overlap.rex.tal,54,Occipital_Inf_R,Inferior occipital gyrus,IOG.R,38.16,-81.99,-7.61
+115,117,118,unlabeled,roi_0118_no_overlap.rex.tal,47,Lingual_L,Lingual gyrus,LING.L,-14.62,-67.56,-4.63
+116,118,119,unlabeled,roi_0119_no_overlap.rex.tal,34,Cingulum_Mid_R,Median cingulate and paracingulate gyri,DCG.R,8.02,-8.83,39.79
+117,119,120,unlabeled,roi_0120_no_overlap.rex.tal,54,Occipital_Inf_R,Inferior occipital gyrus,IOG.R,38.16,-81.99,-7.61
+118,120,121,unlabeled,roi_0121_no_overlap.rex.tal,42,Amygdala_R,Amygdala,AMYG.R,27.32,0.64,-17.5
+119,121,122,unlabeled,roi_0122_no_overlap.rex.tal,12,Frontal_Inf_Oper_R,Inferior frontal gyrus opercular part,IFGoperc.R,50.2,14.98,21.41
+120,122,123,unlabeled,roi_0123_no_overlap.rex.tal,75,Pallidum_L,Lenticular nucleus pallidum,PAL.L,-17.75,-0.03,0.21
+121,123,124,unlabeled,roi_0124_no_overlap.rex.tal,24,Frontal_Sup_Medial_R,Superior frontal gyrus medial,SFGmed.R,9.1,50.84,30.22
+122,124,125,unlabeled,roi_0125_no_overlap.rex.tal,9,Frontal_Mid_Orb_L,Middle frontal gyrus orbital part,ORBmid.L,-30.65,50.43,-9.62
+123,125,126,unlabeled,roi_0126_no_overlap.rex.tal,76,Pallidum_R,Lenticular nucleus pallidum,PAL.R,21.2,0.18,0.23
+124,126,127,unlabeled,roi_0127_no_overlap.rex.tal,28,Rectus_R,Gyrus rectus,REC.R,8.35,35.64,-18.04
+125,127,128,unlabeled,roi_0128_no_overlap.rex.tal,54,Occipital_Inf_R,Inferior occipital gyrus,IOG.R,38.16,-81.99,-7.61
+126,128,129,unlabeled,roi_0129_no_overlap.rex.tal,44,Calcarine_R,Calcarine fissure and surrounding cortex,CAL.R,15.99,-73.15,9.4
+127,129,130,unlabeled,roi_0130_no_overlap.rex.tal,26,Frontal_Mid_Orb_R,Superior frontal gyrus medial orbital,ORBsupmed.R,8.16,51.67,-7.13
+128,130,131,unlabeled,roi_0131_no_overlap.rex.tal,82,Temporal_Sup_R,Superior temporal gyrus,STG.R,58.15,-21.78,6.8
+129,131,132,unlabeled,roi_0132_no_overlap.rex.tal,71,Caudate_L,Caudate nucleus,CAU.L,-11.46,11.0,9.24
+130,132,133,unlabeled,roi_0133_no_overlap.rex.tal,67,Precuneus_L,Precuneus,PCUN.L,-7.24,-56.07,48.01
+131,133,134,unlabeled,roi_0134_no_overlap.rex.tal,21,Olfactory_L,Olfactory cortex,OLF.L,-8.06,15.05,-11.46
+132,134,135,unlabeled,roi_0135_no_overlap.rex.tal,4,Frontal_Sup_R,Superior frontal gyrus dorsolateral,SFGdor.R,21.9,31.12,43.82
+133,135,136,unlabeled,roi_0136_no_overlap.rex.tal,88,Temporal_Pole_Mid_R,Temporal pole middle temporal gyrus,TPOmid.R,44.22,14.55,-32.23
+134,136,137,unlabeled,roi_0137_no_overlap.rex.tal,52,Occipital_Mid_R,Middle occipital gyrus,MOG.R,37.39,-79.7,19.42
+135,137,138,unlabeled,roi_0138_no_overlap.rex.tal,53,Occipital_Inf_L,Inferior occipital gyrus,IOG.L,-36.36,-78.29,-7.84
+136,138,139,unlabeled,roi_0139_no_overlap.rex.tal,56,Fusiform_R,Fusiform gyrus,FFG.R,33.97,-39.1,-20.18
+137,139,140,unlabeled,roi_0140_no_overlap.rex.tal,64,SupraMarginal_R,Supramarginal gyrus,SMG.R,57.61,-31.5,34.48
+138,140,141,unlabeled,roi_0141_no_overlap.rex.tal,11,Frontal_Inf_Oper_L,Inferior frontal gyrus opercular part,IFGoperc.L,-48.43,12.73,19.02
+139,141,142,unlabeled,roi_0142_no_overlap.rex.tal,40,ParaHippocampal_R,Parahippocampal gyrus,PHG.R,25.38,-15.15,-20.47
+140,142,143,unlabeled,roi_0143_no_overlap.rex.tal,43,Calcarine_L,Calcarine fissure and surrounding cortex,CAL.L,-7.14,-78.67,6.44
+141,143,144,unlabeled,roi_0144_no_overlap.rex.tal,90,Temporal_Inf_R,Inferior temporal gyrus,ITG.R,53.69,-31.07,-22.32
+142,144,145,unlabeled,roi_0145_no_overlap.rex.tal,56,Fusiform_R,Fusiform gyrus,FFG.R,33.97,-39.1,-20.18
+143,145,146,unlabeled,roi_0146_no_overlap.rex.tal,60,Parietal_Sup_R,Superior parietal gyrus,SPG.R,26.11,-59.18,62.06
+144,146,147,unlabeled,roi_0147_no_overlap.rex.tal,66,Angular_R,Angular gyrus,ANG.R,45.51,-59.98,38.63
+145,147,148,unlabeled,roi_0148_no_overlap.rex.tal,9,Frontal_Mid_Orb_L,Middle frontal gyrus orbital part,ORBmid.L,-30.65,50.43,-9.62
+146,148,149,unlabeled,roi_0149_no_overlap.rex.tal,22,Olfactory_R,Olfactory cortex,OLF.R,10.43,15.91,-11.26
+147,149,150,unlabeled,roi_0150_no_overlap.rex.tal,48,Lingual_R,Lingual gyrus,LING.R,16.29,-66.93,-3.87
+148,150,151,unlabeled,roi_0151_no_overlap.rex.tal,70,Paracentral_Lobule_R,Paracentral lobule,PCL.R,7.48,-31.59,68.09
+149,151,152,unlabeled,roi_0152_no_overlap.rex.tal,70,Paracentral_Lobule_R,Paracentral lobule,PCL.R,7.48,-31.59,68.09
+150,152,153,unlabeled,roi_0153_no_overlap.rex.tal,48,Lingual_R,Lingual gyrus,LING.R,16.29,-66.93,-3.87
+151,153,154,unlabeled,roi_0154_no_overlap.rex.tal,20,Supp_Motor_Area_R,Supplementary motor area,SMA.R,8.62,0.17,61.85
+152,154,155,unlabeled,roi_0155_no_overlap.rex.tal,56,Fusiform_R,Fusiform gyrus,FFG.R,33.97,-39.1,-20.18
+153,155,156,unlabeled,roi_0156_no_overlap.rex.tal,50,Occipital_Sup_R,Superior occipital gyrus,SOG.R,24.29,-80.85,30.59
+154,156,157,unlabeled,roi_0157_no_overlap.rex.tal,88,Temporal_Pole_Mid_R,Temporal pole middle temporal gyrus,TPOmid.R,44.22,14.55,-32.23
+155,157,158,unlabeled,roi_0158_no_overlap.rex.tal,71,Caudate_L,Caudate nucleus,CAU.L,-11.46,11.0,9.24
+156,158,159,unlabeled,roi_0159_no_overlap.rex.tal,85,Temporal_Mid_L,Middle temporal gyrus,MTG.L,-55.52,-33.8,-2.2
+157,159,160,unlabeled,roi_0160_no_overlap.rex.tal,48,Lingual_R,Lingual gyrus,LING.R,16.29,-66.93,-3.87
+158,160,161,unlabeled,roi_0161_no_overlap.rex.tal,89,Temporal_Inf_L,Inferior temporal gyrus,ITG.L,-49.77,-28.05,-23.17
+159,161,162,unlabeled,roi_0162_no_overlap.rex.tal,49,Occipital_Sup_L,Superior occipital gyrus,SOG.L,-16.54,-84.26,28.17
+160,162,163,unlabeled,roi_0163_no_overlap.rex.tal,29,Insula_L,Insula,INS.L,-35.13,6.65,3.44
+161,163,164,unlabeled,roi_0164_no_overlap.rex.tal,81,Temporal_Sup_L,Superior temporal gyrus,STG.L,-53.16,-20.68,7.13
+162,164,165,unlabeled,roi_0165_no_overlap.rex.tal,1,Precentral_L,Precental gyrus,PreCG.L,-38.65,-5.68,50.94
+163,165,166,unlabeled,roi_0166_no_overlap.rex.tal,70,Paracentral_Lobule_R,Paracentral lobule,PCL.R,7.48,-31.59,68.09
+164,166,167,unlabeled,roi_0167_no_overlap.rex.tal,47,Lingual_L,Lingual gyrus,LING.L,-14.62,-67.56,-4.63
+165,167,168,unlabeled,roi_0168_no_overlap.rex.tal,66,Angular_R,Angular gyrus,ANG.R,45.51,-59.98,38.63
+166,168,169,unlabeled,roi_0169_no_overlap.rex.tal,12,Frontal_Inf_Oper_R,Inferior frontal gyrus opercular part,IFGoperc.R,50.2,14.98,21.41
+167,169,170,unlabeled,roi_0170_no_overlap.rex.tal,64,SupraMarginal_R,Supramarginal gyrus,SMG.R,57.61,-31.5,34.48
+168,170,171,unlabeled,roi_0171_no_overlap.rex.tal,43,Calcarine_L,Calcarine fissure and surrounding cortex,CAL.L,-7.14,-78.67,6.44
+169,171,172,unlabeled,roi_0172_no_overlap.rex.tal,45,Cuneus_L,Cuneus,CUN.L,-5.93,-80.13,27.22
+170,172,173,unlabeled,roi_0173_no_overlap.rex.tal,2,Precentral_R,Precental gyrus,PreCG.R,41.37,-8.21,52.09
+171,173,174,unlabeled,roi_0174_no_overlap.rex.tal,43,Calcarine_L,Calcarine fissure and surrounding cortex,CAL.L,-7.14,-78.67,6.44
+172,174,175,unlabeled,roi_0175_no_overlap.rex.tal,19,Supp_Motor_Area_L,Supplementary motor area,SMA.L,-5.32,4.85,61.38
+173,175,176,unlabeled,roi_0176_no_overlap.rex.tal,33,Cingulum_Mid_L,Median cingulate and paracingulate gyri,DCG.L,-5.48,-14.92,41.57
+174,176,177,unlabeled,roi_0177_no_overlap.rex.tal,87,Temporal_Pole_Mid_L,Temporal pole middle temporal gyrus,TPOmid.L,-36.32,14.59,-34.08
+175,177,178,unlabeled,roi_0178_no_overlap.rex.tal,40,ParaHippocampal_R,Parahippocampal gyrus,PHG.R,25.38,-15.15,-20.47
+176,178,179,unlabeled,roi_0179_no_overlap.rex.tal,84,Temporal_Pole_Sup_R,Temporal pole superior temporal gyrus,TPOsup.R,48.25,14.75,-16.86
+177,179,180,unlabeled,roi_0180_no_overlap.rex.tal,45,Cuneus_L,Cuneus,CUN.L,-5.93,-80.13,27.22
+178,180,181,unlabeled,roi_0181_no_overlap.rex.tal,88,Temporal_Pole_Mid_R,Temporal pole middle temporal gyrus,TPOmid.R,44.22,14.55,-32.23
+179,181,182,unlabeled,roi_0182_no_overlap.rex.tal,53,Occipital_Inf_L,Inferior occipital gyrus,IOG.L,-36.36,-78.29,-7.84
+180,182,183,unlabeled,roi_0183_no_overlap.rex.tal,84,Temporal_Pole_Sup_R,Temporal pole superior temporal gyrus,TPOsup.R,48.25,14.75,-16.86
+181,183,184,unlabeled,roi_0184_no_overlap.rex.tal,66,Angular_R,Angular gyrus,ANG.R,45.51,-59.98,38.63
+182,184,185,unlabeled,roi_0185_no_overlap.rex.tal,39,ParaHippocampal_L,Parahippocampal gyrus,PHG.L,-21.17,-15.95,-20.7
+183,185,186,unlabeled,roi_0186_no_overlap.rex.tal,53,Occipital_Inf_L,Inferior occipital gyrus,IOG.L,-36.36,-78.29,-7.84
+184,186,187,unlabeled,roi_0187_no_overlap.rex.tal,56,Fusiform_R,Fusiform gyrus,FFG.R,33.97,-39.1,-20.18
+185,187,188,unlabeled,roi_0188_no_overlap.rex.tal,56,Fusiform_R,Fusiform gyrus,FFG.R,33.97,-39.1,-20.18
+186,188,189,unlabeled,roi_0189_no_overlap.rex.tal,39,ParaHippocampal_L,Parahippocampal gyrus,PHG.L,-21.17,-15.95,-20.7
+187,189,190,unlabeled,roi_0190_no_overlap.rex.tal,15,Frontal_Inf_Orb_L,Inferior frontal gyrus orbital part,ORBinf.L,-35.98,30.71,-12.11
+188,190,191,unlabeled,roi_0191_no_overlap.rex.tal,43,Calcarine_L,Calcarine fissure and surrounding cortex,CAL.L,-7.14,-78.67,6.44
+189,191,192,unlabeled,roi_0192_no_overlap.rex.tal,56,Fusiform_R,Fusiform gyrus,FFG.R,33.97,-39.1,-20.18
+190,192,193,unlabeled,roi_0193_no_overlap.rex.tal,13,Frontal_Inf_Tri_L,Inferior frontal gyrus triangular part,IFGtriang.L,-45.58,29.91,13.99
+191,193,194,unlabeled,roi_0194_no_overlap.rex.tal,29,Insula_L,Insula,INS.L,-35.13,6.65,3.44
+192,194,195,unlabeled,roi_0195_no_overlap.rex.tal,64,SupraMarginal_R,Supramarginal gyrus,SMG.R,57.61,-31.5,34.48
+193,195,196,unlabeled,roi_0196_no_overlap.rex.tal,87,Temporal_Pole_Mid_L,Temporal pole middle temporal gyrus,TPOmid.L,-36.32,14.59,-34.08
+194,196,197,unlabeled,roi_0197_no_overlap.rex.tal,56,Fusiform_R,Fusiform gyrus,FFG.R,33.97,-39.1,-20.18
+195,197,198,unlabeled,roi_0198_no_overlap.rex.tal,55,Fusiform_L,Fusiform gyrus,FFG.L,-31.16,-40.3,-20.23
+196,198,199,unlabeled,roi_0199_no_overlap.rex.tal,87,Temporal_Pole_Mid_L,Temporal pole middle temporal gyrus,TPOmid.L,-36.32,14.59,-34.08
+197,199,200,unlabeled,roi_0200_no_overlap.rex.tal,86,Temporal_Mid_R,Middle temporal gyrus,MTG.R,57.47,-37.23,-1.47
+198,200,201,unlabeled,roi_0201_no_overlap.rex.tal,40,ParaHippocampal_R,Parahippocampal gyrus,PHG.R,25.38,-15.15,-20.47
+199,201,202,unlabeled,roi_0202_no_overlap.rex.tal,14,Frontal_Inf_Tri_R,Inferior frontal gyrus triangular part,IFGtriang.R,50.33,30.16,14.17
+200,202,203,unlabeled,roi_0203_no_overlap.rex.tal,79,Heschl_L,Heschl gyrus,HES.L,-41.99,-18.88,9.98
+201,203,204,unlabeled,roi_0204_no_overlap.rex.tal,64,SupraMarginal_R,Supramarginal gyrus,SMG.R,57.61,-31.5,34.48
+202,204,205,unlabeled,roi_0205_no_overlap.rex.tal,56,Fusiform_R,Fusiform gyrus,FFG.R,33.97,-39.1,-20.18
+203,205,206,unlabeled,roi_0206_no_overlap.rex.tal,36,Cingulum_Post_R,Posterior cingulate gyrus,PCG.R,7.44,-41.81,21.87
+204,206,207,unlabeled,roi_0207_no_overlap.rex.tal,61,Parietal_Inf_L,Inferior parietal but supramarginal and angular gyri,IPL.L,-42.8,-45.82,46.74
+205,207,208,unlabeled,roi_0208_no_overlap.rex.tal,14,Frontal_Inf_Tri_R,Inferior frontal gyrus triangular part,IFGtriang.R,50.33,30.16,14.17
+206,208,209,unlabeled,roi_0209_no_overlap.rex.tal,47,Lingual_L,Lingual gyrus,LING.L,-14.62,-67.56,-4.63
+207,209,210,unlabeled,roi_0210_no_overlap.rex.tal,80,Heschl_R,Heschl gyrus,HES.R,45.86,-17.15,10.41
+208,210,211,unlabeled,roi_0211_no_overlap.rex.tal,57,Postcentral_L,Postcentral gyrus,PoCG.L,-42.46,-22.63,48.92
+209,211,212,unlabeled,roi_0212_no_overlap.rex.tal,27,Rectus_L,Gyrus rectus,REC.L,-5.08,37.07,-18.14
+210,212,213,unlabeled,roi_0213_no_overlap.rex.tal,53,Occipital_Inf_L,Inferior occipital gyrus,IOG.L,-36.36,-78.29,-7.84
+211,213,214,unlabeled,roi_0214_no_overlap.rex.tal,9,Frontal_Mid_Orb_L,Middle frontal gyrus orbital part,ORBmid.L,-30.65,50.43,-9.62
+212,214,215,unlabeled,roi_0215_no_overlap.rex.tal,48,Lingual_R,Lingual gyrus,LING.R,16.29,-66.93,-3.87
+213,215,216,unlabeled,roi_0216_no_overlap.rex.tal,19,Supp_Motor_Area_L,Supplementary motor area,SMA.L,-5.32,4.85,61.38
+214,216,217,unlabeled,roi_0217_no_overlap.rex.tal,46,Cuneus_R,Cuneus,CUN.R,13.51,-79.36,28.23
+215,217,218,unlabeled,roi_0218_no_overlap.rex.tal,54,Occipital_Inf_R,Inferior occipital gyrus,IOG.R,38.16,-81.99,-7.61
+216,218,219,unlabeled,roi_0219_no_overlap.rex.tal,34,Cingulum_Mid_R,Median cingulate and paracingulate gyri,DCG.R,8.02,-8.83,39.79
+217,219,220,unlabeled,roi_0220_no_overlap.rex.tal,48,Lingual_R,Lingual gyrus,LING.R,16.29,-66.93,-3.87
+218,220,221,unlabeled,roi_0221_no_overlap.rex.tal,82,Temporal_Sup_R,Superior temporal gyrus,STG.R,58.15,-21.78,6.8
+219,221,222,unlabeled,roi_0222_no_overlap.rex.tal,66,Angular_R,Angular gyrus,ANG.R,45.51,-59.98,38.63
+220,222,223,unlabeled,roi_0223_no_overlap.rex.tal,61,Parietal_Inf_L,Inferior parietal but supramarginal and angular gyri,IPL.L,-42.8,-45.82,46.74
+221,223,224,unlabeled,roi_0224_no_overlap.rex.tal,48,Lingual_R,Lingual gyrus,LING.R,16.29,-66.93,-3.87
+222,224,225,unlabeled,roi_0225_no_overlap.rex.tal,56,Fusiform_R,Fusiform gyrus,FFG.R,33.97,-39.1,-20.18
+223,225,226,unlabeled,roi_0226_no_overlap.rex.tal,90,Temporal_Inf_R,Inferior temporal gyrus,ITG.R,53.69,-31.07,-22.32
+224,226,227,unlabeled,roi_0227_no_overlap.rex.tal,55,Fusiform_L,Fusiform gyrus,FFG.L,-31.16,-40.3,-20.23
+225,227,228,unlabeled,roi_0228_no_overlap.rex.tal,30,Insula_R,Insula,INS.R,39.02,6.25,2.08
+226,228,229,unlabeled,roi_0229_no_overlap.rex.tal,17,Rolandic_Oper_L,Rolandic operculum,ROL.L,-47.16,-8.48,13.95
+227,229,230,unlabeled,roi_0230_no_overlap.rex.tal,53,Occipital_Inf_L,Inferior occipital gyrus,IOG.L,-36.36,-78.29,-7.84
+228,230,231,unlabeled,roi_0231_no_overlap.rex.tal,44,Calcarine_R,Calcarine fissure and surrounding cortex,CAL.R,15.99,-73.15,9.4
+229,231,232,unlabeled,roi_0232_no_overlap.rex.tal,86,Temporal_Mid_R,Middle temporal gyrus,MTG.R,57.47,-37.23,-1.47
+230,232,233,unlabeled,roi_0233_no_overlap.rex.tal,50,Occipital_Sup_R,Superior occipital gyrus,SOG.R,24.29,-80.85,30.59
+231,233,234,unlabeled,roi_0234_no_overlap.rex.tal,66,Angular_R,Angular gyrus,ANG.R,45.51,-59.98,38.63
+232,234,235,unlabeled,roi_0235_no_overlap.rex.tal,55,Fusiform_L,Fusiform gyrus,FFG.L,-31.16,-40.3,-20.23
+233,235,236,unlabeled,roi_0236_no_overlap.rex.tal,86,Temporal_Mid_R,Middle temporal gyrus,MTG.R,57.47,-37.23,-1.47
+234,236,237,unlabeled,roi_0237_no_overlap.rex.tal,70,Paracentral_Lobule_R,Paracentral lobule,PCL.R,7.48,-31.59,68.09
+235,237,238,unlabeled,roi_0238_no_overlap.rex.tal,8,Frontal_Mid_R,Middle frontal gyrus,MFG.R,37.59,33.06,34.04
+236,238,239,unlabeled,roi_0239_no_overlap.rex.tal,56,Fusiform_R,Fusiform gyrus,FFG.R,33.97,-39.1,-20.18
+237,239,240,unlabeled,roi_0240_no_overlap.rex.tal,68,Precuneus_R,Precuneus,PCUN.R,9.98,-56.05,43.77
+238,240,241,unlabeled,roi_0241_no_overlap.rex.tal,54,Occipital_Inf_R,Inferior occipital gyrus,IOG.R,38.16,-81.99,-7.61
+239,241,242,unlabeled,roi_0242_no_overlap.rex.tal,54,Occipital_Inf_R,Inferior occipital gyrus,IOG.R,38.16,-81.99,-7.61
+240,242,243,unlabeled,roi_0243_no_overlap.rex.tal,40,ParaHippocampal_R,Parahippocampal gyrus,PHG.R,25.38,-15.15,-20.47
+241,243,244,unlabeled,roi_0244_no_overlap.rex.tal,48,Lingual_R,Lingual gyrus,LING.R,16.29,-66.93,-3.87
+242,244,245,unlabeled,roi_0245_no_overlap.rex.tal,59,Parietal_Sup_L,Superior parietal gyrus,SPG.L,-23.45,-59.56,58.96
+243,245,246,unlabeled,roi_0246_no_overlap.rex.tal,34,Cingulum_Mid_R,Median cingulate and paracingulate gyri,DCG.R,8.02,-8.83,39.79
+244,246,247,unlabeled,roi_0247_no_overlap.rex.tal,26,Frontal_Mid_Orb_R,Superior frontal gyrus medial orbital,ORBsupmed.R,8.16,51.67,-7.13
+245,247,248,unlabeled,roi_0248_no_overlap.rex.tal,53,Occipital_Inf_L,Inferior occipital gyrus,IOG.L,-36.36,-78.29,-7.84
+246,248,249,unlabeled,roi_0249_no_overlap.rex.tal,90,Temporal_Inf_R,Inferior temporal gyrus,ITG.R,53.69,-31.07,-22.32
+247,249,250,unlabeled,roi_0250_no_overlap.rex.tal,60,Parietal_Sup_R,Superior parietal gyrus,SPG.R,26.11,-59.18,62.06
+248,250,251,unlabeled,roi_0251_no_overlap.rex.tal,64,SupraMarginal_R,Supramarginal gyrus,SMG.R,57.61,-31.5,34.48
+249,251,252,unlabeled,roi_0252_no_overlap.rex.tal,85,Temporal_Mid_L,Middle temporal gyrus,MTG.L,-55.52,-33.8,-2.2
+250,252,253,unlabeled,roi_0253_no_overlap.rex.tal,60,Parietal_Sup_R,Superior parietal gyrus,SPG.R,26.11,-59.18,62.06
+251,253,254,unlabeled,roi_0254_no_overlap.rex.tal,78,Thalamus_R,Thalamus,THA.R,13.0,-17.55,8.09
+252,254,255,unlabeled,roi_0255_no_overlap.rex.tal,54,Occipital_Inf_R,Inferior occipital gyrus,IOG.R,38.16,-81.99,-7.61
+253,255,256,unlabeled,roi_0257_no_overlap.rex.tal,17,Rolandic_Oper_L,Rolandic operculum,ROL.L,-47.16,-8.48,13.95
+254,256,257,unlabeled,roi_0258_no_overlap.rex.tal,68,Precuneus_R,Precuneus,PCUN.R,9.98,-56.05,43.77
+255,257,258,unlabeled,roi_0259_no_overlap.rex.tal,86,Temporal_Mid_R,Middle temporal gyrus,MTG.R,57.47,-37.23,-1.47
+256,258,259,unlabeled,roi_0260_no_overlap.rex.tal,67,Precuneus_L,Precuneus,PCUN.L,-7.24,-56.07,48.01
+257,259,260,unlabeled,roi_0261_no_overlap.rex.tal,18,Rolandic_Oper_R,Rolandic operculum,ROL.R,52.65,-6.25,14.63
+258,260,261,unlabeled,roi_0262_no_overlap.rex.tal,53,Occipital_Inf_L,Inferior occipital gyrus,IOG.L,-36.36,-78.29,-7.84
+259,261,262,unlabeled,roi_0263_no_overlap.rex.tal,36,Cingulum_Post_R,Posterior cingulate gyrus,PCG.R,7.44,-41.81,21.87
+260,262,263,unlabeled,roi_0264_no_overlap.rex.tal,10,Frontal_Mid_Orb_R,Middle frontal gyrus orbital part,ORBmid.R,33.18,52.59,-10.73
+261,263,264,unlabeled,roi_0265_no_overlap.rex.tal,30,Insula_R,Insula,INS.R,39.02,6.25,2.08
+262,264,265,unlabeled,roi_0266_no_overlap.rex.tal,51,Occipital_Mid_L,Middle occipital gyrus,MOG.L,-32.39,-80.73,16.11
+263,265,266,unlabeled,roi_0267_no_overlap.rex.tal,39,ParaHippocampal_L,Parahippocampal gyrus,PHG.L,-21.17,-15.95,-20.7
+264,266,267,unlabeled,roi_0268_no_overlap.rex.tal,49,Occipital_Sup_L,Superior occipital gyrus,SOG.L,-16.54,-84.26,28.17
+265,267,268,unlabeled,roi_0269_no_overlap.rex.tal,23,Frontal_Sup_Medial_L,Superior frontal gyrus medial,SFGmed.L,-4.8,49.17,30.89
+266,268,269,unlabeled,roi_0270_no_overlap.rex.tal,77,Thalamus_L,Thalamus,THA.L,-10.85,-17.56,7.98
+267,269,270,unlabeled,roi_0271_no_overlap.rex.tal,69,Paracentral_Lobule_L,Paracentral lobule,PCL.L,-7.63,-25.36,70.07
+268,270,271,unlabeled,roi_0272_no_overlap.rex.tal,24,Frontal_Sup_Medial_R,Superior frontal gyrus medial,SFGmed.R,9.1,50.84,30.22
+269,271,272,unlabeled,roi_0273_no_overlap.rex.tal,15,Frontal_Inf_Orb_L,Inferior frontal gyrus orbital part,ORBinf.L,-35.98,30.71,-12.11
+270,272,273,unlabeled,roi_0274_no_overlap.rex.tal,82,Temporal_Sup_R,Superior temporal gyrus,STG.R,58.15,-21.78,6.8
+271,273,274,unlabeled,roi_0275_no_overlap.rex.tal,68,Precuneus_R,Precuneus,PCUN.R,9.98,-56.05,43.77
+272,274,275,unlabeled,roi_0276_no_overlap.rex.tal,18,Rolandic_Oper_R,Rolandic operculum,ROL.R,52.65,-6.25,14.63
+273,275,276,unlabeled,roi_0277_no_overlap.rex.tal,78,Thalamus_R,Thalamus,THA.R,13.0,-17.55,8.09
+274,276,277,unlabeled,roi_0278_no_overlap.rex.tal,8,Frontal_Mid_R,Middle frontal gyrus,MFG.R,37.59,33.06,34.04
+275,277,278,unlabeled,roi_0279_no_overlap.rex.tal,86,Temporal_Mid_R,Middle temporal gyrus,MTG.R,57.47,-37.23,-1.47
+276,278,279,unlabeled,roi_0280_no_overlap.rex.tal,61,Parietal_Inf_L,Inferior parietal but supramarginal and angular gyri,IPL.L,-42.8,-45.82,46.74
+277,279,280,unlabeled,roi_0281_no_overlap.rex.tal,54,Occipital_Inf_R,Inferior occipital gyrus,IOG.R,38.16,-81.99,-7.61
+278,280,281,unlabeled,roi_0282_no_overlap.rex.tal,54,Occipital_Inf_R,Inferior occipital gyrus,IOG.R,38.16,-81.99,-7.61
+279,281,282,unlabeled,roi_0283_no_overlap.rex.tal,85,Temporal_Mid_L,Middle temporal gyrus,MTG.L,-55.52,-33.8,-2.2
+280,282,283,unlabeled,roi_0284_no_overlap.rex.tal,33,Cingulum_Mid_L,Median cingulate and paracingulate gyri,DCG.L,-5.48,-14.92,41.57
+281,283,284,unlabeled,roi_0285_no_overlap.rex.tal,49,Occipital_Sup_L,Superior occipital gyrus,SOG.L,-16.54,-84.26,28.17
+282,284,285,unlabeled,roi_0286_no_overlap.rex.tal,20,Supp_Motor_Area_R,Supplementary motor area,SMA.R,8.62,0.17,61.85
+283,285,286,unlabeled,roi_0287_no_overlap.rex.tal,15,Frontal_Inf_Orb_L,Inferior frontal gyrus orbital part,ORBinf.L,-35.98,30.71,-12.11
+284,286,287,unlabeled,roi_0288_no_overlap.rex.tal,24,Frontal_Sup_Medial_R,Superior frontal gyrus medial,SFGmed.R,9.1,50.84,30.22
+285,287,288,unlabeled,roi_0289_no_overlap.rex.tal,10,Frontal_Mid_Orb_R,Middle frontal gyrus orbital part,ORBmid.R,33.18,52.59,-10.73
+286,288,289,unlabeled,roi_0290_no_overlap.rex.tal,1,Precentral_L,Precental gyrus,PreCG.L,-38.65,-5.68,50.94
+287,289,290,unlabeled,roi_0291_no_overlap.rex.tal,55,Fusiform_L,Fusiform gyrus,FFG.L,-31.16,-40.3,-20.23
+288,290,291,unlabeled,roi_0292_no_overlap.rex.tal,62,Parietal_Inf_R,Inferior parietal but supramarginal and angular gyri,IPL.R,46.46,-46.29,49.54
+289,291,292,unlabeled,roi_0293_no_overlap.rex.tal,20,Supp_Motor_Area_R,Supplementary motor area,SMA.R,8.62,0.17,61.85
+290,292,293,unlabeled,roi_0294_no_overlap.rex.tal,10,Frontal_Mid_Orb_R,Middle frontal gyrus orbital part,ORBmid.R,33.18,52.59,-10.73
+291,293,294,unlabeled,roi_0295_no_overlap.rex.tal,12,Frontal_Inf_Oper_R,Inferior frontal gyrus opercular part,IFGoperc.R,50.2,14.98,21.41
+292,294,295,unlabeled,roi_0296_no_overlap.rex.tal,4,Frontal_Sup_R,Superior frontal gyrus dorsolateral,SFGdor.R,21.9,31.12,43.82
+293,295,296,unlabeled,roi_0297_no_overlap.rex.tal,52,Occipital_Mid_R,Middle occipital gyrus,MOG.R,37.39,-79.7,19.42
+294,296,297,unlabeled,roi_0298_no_overlap.rex.tal,43,Calcarine_L,Calcarine fissure and surrounding cortex,CAL.L,-7.14,-78.67,6.44
+295,297,298,unlabeled,roi_0299_no_overlap.rex.tal,71,Caudate_L,Caudate nucleus,CAU.L,-11.46,11.0,9.24
+296,298,299,unlabeled,roi_0300_no_overlap.rex.tal,51,Occipital_Mid_L,Middle occipital gyrus,MOG.L,-32.39,-80.73,16.11
+297,299,300,unlabeled,roi_0301_no_overlap.rex.tal,87,Temporal_Pole_Mid_L,Temporal pole middle temporal gyrus,TPOmid.L,-36.32,14.59,-34.08
+298,300,301,unlabeled,roi_0302_no_overlap.rex.tal,67,Precuneus_L,Precuneus,PCUN.L,-7.24,-56.07,48.01
+299,301,302,unlabeled,roi_0303_no_overlap.rex.tal,18,Rolandic_Oper_R,Rolandic operculum,ROL.R,52.65,-6.25,14.63
+300,302,303,unlabeled,roi_0304_no_overlap.rex.tal,4,Frontal_Sup_R,Superior frontal gyrus dorsolateral,SFGdor.R,21.9,31.12,43.82
+301,303,304,unlabeled,roi_0305_no_overlap.rex.tal,55,Fusiform_L,Fusiform gyrus,FFG.L,-31.16,-40.3,-20.23
+302,304,305,unlabeled,roi_0306_no_overlap.rex.tal,86,Temporal_Mid_R,Middle temporal gyrus,MTG.R,57.47,-37.23,-1.47
+303,305,306,unlabeled,roi_0307_no_overlap.rex.tal,78,Thalamus_R,Thalamus,THA.R,13.0,-17.55,8.09
+304,306,307,unlabeled,roi_0308_no_overlap.rex.tal,23,Frontal_Sup_Medial_L,Superior frontal gyrus medial,SFGmed.L,-4.8,49.17,30.89
+305,307,308,unlabeled,roi_0309_no_overlap.rex.tal,37,Hippocampus_L,Hippocampus,HIP.L,-25.03,-20.74,-10.13
+306,308,309,unlabeled,roi_0310_no_overlap.rex.tal,72,Caudate_R,Caudate nucleus,CAU.R,14.84,12.07,9.42
+307,309,310,unlabeled,roi_0311_no_overlap.rex.tal,3,Frontal_Sup_L,Superior frontal gyrus dorsolateral,SFGdor.L,-18.45,34.81,42.2
+308,310,311,unlabeled,roi_0312_no_overlap.rex.tal,40,ParaHippocampal_R,Parahippocampal gyrus,PHG.R,25.38,-15.15,-20.47
+309,311,312,unlabeled,roi_0313_no_overlap.rex.tal,48,Lingual_R,Lingual gyrus,LING.R,16.29,-66.93,-3.87
+310,312,313,unlabeled,roi_0314_no_overlap.rex.tal,60,Parietal_Sup_R,Superior parietal gyrus,SPG.R,26.11,-59.18,62.06
+311,313,314,unlabeled,roi_0315_no_overlap.rex.tal,57,Postcentral_L,Postcentral gyrus,PoCG.L,-42.46,-22.63,48.92
+312,314,315,unlabeled,roi_0316_no_overlap.rex.tal,73,Putamen_L,Lenticular nucleus putamen,PUT.L,-23.91,3.86,2.4
+313,315,316,unlabeled,roi_0317_no_overlap.rex.tal,85,Temporal_Mid_L,Middle temporal gyrus,MTG.L,-55.52,-33.8,-2.2
+314,316,317,unlabeled,roi_0318_no_overlap.rex.tal,70,Paracentral_Lobule_R,Paracentral lobule,PCL.R,7.48,-31.59,68.09
+315,317,318,unlabeled,roi_0319_no_overlap.rex.tal,55,Fusiform_L,Fusiform gyrus,FFG.L,-31.16,-40.3,-20.23
+316,318,319,unlabeled,roi_0320_no_overlap.rex.tal,79,Heschl_L,Heschl gyrus,HES.L,-41.99,-18.88,9.98
+317,319,320,unlabeled,roi_0321_no_overlap.rex.tal,48,Lingual_R,Lingual gyrus,LING.R,16.29,-66.93,-3.87
+318,320,321,unlabeled,roi_0322_no_overlap.rex.tal,56,Fusiform_R,Fusiform gyrus,FFG.R,33.97,-39.1,-20.18
+319,321,322,unlabeled,roi_0323_no_overlap.rex.tal,69,Paracentral_Lobule_L,Paracentral lobule,PCL.L,-7.63,-25.36,70.07
+320,322,323,unlabeled,roi_0324_no_overlap.rex.tal,88,Temporal_Pole_Mid_R,Temporal pole middle temporal gyrus,TPOmid.R,44.22,14.55,-32.23
+321,323,324,unlabeled,roi_0325_no_overlap.rex.tal,20,Supp_Motor_Area_R,Supplementary motor area,SMA.R,8.62,0.17,61.85
+322,324,325,unlabeled,roi_0326_no_overlap.rex.tal,67,Precuneus_L,Precuneus,PCUN.L,-7.24,-56.07,48.01
+323,325,326,unlabeled,roi_0327_no_overlap.rex.tal,30,Insula_R,Insula,INS.R,39.02,6.25,2.08
+324,326,327,unlabeled,roi_0328_no_overlap.rex.tal,48,Lingual_R,Lingual gyrus,LING.R,16.29,-66.93,-3.87
+325,327,328,unlabeled,roi_0329_no_overlap.rex.tal,90,Temporal_Inf_R,Inferior temporal gyrus,ITG.R,53.69,-31.07,-22.32
+326,328,329,unlabeled,roi_0330_no_overlap.rex.tal,59,Parietal_Sup_L,Superior parietal gyrus,SPG.L,-23.45,-59.56,58.96
+327,329,330,unlabeled,roi_0331_no_overlap.rex.tal,56,Fusiform_R,Fusiform gyrus,FFG.R,33.97,-39.1,-20.18
+328,330,331,unlabeled,roi_0332_no_overlap.rex.tal,35,Cingulum_Post_L,Posterior cingulate gyrus,PCG.L,-4.85,-42.92,24.67
+329,331,332,unlabeled,roi_0333_no_overlap.rex.tal,74,Putamen_R,Lenticular nucleus putamen,PUT.R,27.78,4.91,2.46
+330,332,333,unlabeled,roi_0334_no_overlap.rex.tal,86,Temporal_Mid_R,Middle temporal gyrus,MTG.R,57.47,-37.23,-1.47
+331,333,334,unlabeled,roi_0335_no_overlap.rex.tal,47,Lingual_L,Lingual gyrus,LING.L,-14.62,-67.56,-4.63
+332,334,335,unlabeled,roi_0336_no_overlap.rex.tal,74,Putamen_R,Lenticular nucleus putamen,PUT.R,27.78,4.91,2.46
+333,335,336,unlabeled,roi_0337_no_overlap.rex.tal,25,Frontal_Mid_Orb_L,Superior frontal gyrus medial orbital,ORBsupmed.L,-5.17,54.06,-7.4
+334,336,337,unlabeled,roi_0338_no_overlap.rex.tal,85,Temporal_Mid_L,Middle temporal gyrus,MTG.L,-55.52,-33.8,-2.2
+335,337,338,unlabeled,roi_0339_no_overlap.rex.tal,37,Hippocampus_L,Hippocampus,HIP.L,-25.03,-20.74,-10.13
+336,338,339,unlabeled,roi_0340_no_overlap.rex.tal,51,Occipital_Mid_L,Middle occipital gyrus,MOG.L,-32.39,-80.73,16.11
+337,339,340,unlabeled,roi_0341_no_overlap.rex.tal,40,ParaHippocampal_R,Parahippocampal gyrus,PHG.R,25.38,-15.15,-20.47
+338,340,341,unlabeled,roi_0342_no_overlap.rex.tal,47,Lingual_L,Lingual gyrus,LING.L,-14.62,-67.56,-4.63
+339,341,342,unlabeled,roi_0343_no_overlap.rex.tal,8,Frontal_Mid_R,Middle frontal gyrus,MFG.R,37.59,33.06,34.04
+340,342,343,unlabeled,roi_0344_no_overlap.rex.tal,85,Temporal_Mid_L,Middle temporal gyrus,MTG.L,-55.52,-33.8,-2.2
+341,343,344,unlabeled,roi_0345_no_overlap.rex.tal,12,Frontal_Inf_Oper_R,Inferior frontal gyrus opercular part,IFGoperc.R,50.2,14.98,21.41
+342,344,345,unlabeled,roi_0346_no_overlap.rex.tal,53,Occipital_Inf_L,Inferior occipital gyrus,IOG.L,-36.36,-78.29,-7.84
+343,345,346,unlabeled,roi_0347_no_overlap.rex.tal,11,Frontal_Inf_Oper_L,Inferior frontal gyrus opercular part,IFGoperc.L,-48.43,12.73,19.02
+344,346,347,unlabeled,roi_0348_no_overlap.rex.tal,30,Insula_R,Insula,INS.R,39.02,6.25,2.08
+345,347,348,unlabeled,roi_0349_no_overlap.rex.tal,47,Lingual_L,Lingual gyrus,LING.L,-14.62,-67.56,-4.63
+346,348,349,unlabeled,roi_0350_no_overlap.rex.tal,44,Calcarine_R,Calcarine fissure and surrounding cortex,CAL.R,15.99,-73.15,9.4
+347,349,350,unlabeled,roi_0351_no_overlap.rex.tal,40,ParaHippocampal_R,Parahippocampal gyrus,PHG.R,25.38,-15.15,-20.47
+348,350,351,unlabeled,roi_0352_no_overlap.rex.tal,3,Frontal_Sup_L,Superior frontal gyrus dorsolateral,SFGdor.L,-18.45,34.81,42.2
+349,351,352,unlabeled,roi_0353_no_overlap.rex.tal,89,Temporal_Inf_L,Inferior temporal gyrus,ITG.L,-49.77,-28.05,-23.17
+350,352,353,unlabeled,roi_0354_no_overlap.rex.tal,47,Lingual_L,Lingual gyrus,LING.L,-14.62,-67.56,-4.63
+351,353,354,unlabeled,roi_0355_no_overlap.rex.tal,24,Frontal_Sup_Medial_R,Superior frontal gyrus medial,SFGmed.R,9.1,50.84,30.22
+352,354,355,unlabeled,roi_0356_no_overlap.rex.tal,57,Postcentral_L,Postcentral gyrus,PoCG.L,-42.46,-22.63,48.92
+353,355,356,unlabeled,roi_0357_no_overlap.rex.tal,51,Occipital_Mid_L,Middle occipital gyrus,MOG.L,-32.39,-80.73,16.11
+354,356,357,unlabeled,roi_0358_no_overlap.rex.tal,48,Lingual_R,Lingual gyrus,LING.R,16.29,-66.93,-3.87
+355,357,358,unlabeled,roi_0359_no_overlap.rex.tal,1,Precentral_L,Precental gyrus,PreCG.L,-38.65,-5.68,50.94
+356,40,40,Motor,roi_0040_overlap_with_fROI_Motor_06_3mm.rex.tal,78,Thalamus_R,Thalamus,THA.R,13.0,-17.55,8.09
+357,413,414,Motor,roi_0415_overlap_with_fROI_Motor_01_3mm.rex.tal,69,Paracentral_Lobule_L,Paracentral lobule,PCL.L,-7.63,-25.36,70.07
+358,414,415,Motor,roi_0416_overlap_with_fROI_Motor_01_3mm.rex.tal,57,Postcentral_L,Postcentral gyrus,PoCG.L,-42.46,-22.63,48.92
+359,415,416,Motor,roi_0417_overlap_with_fROI_Motor_01_3mm.rex.tal,57,Postcentral_L,Postcentral gyrus,PoCG.L,-42.46,-22.63,48.92
+360,416,417,Motor,roi_0418_overlap_with_fROI_Motor_02_3mm.rex.tal,58,Postcentral_R,Postcentral gyrus,PoCG.R,41.43,-25.49,52.55
+361,417,418,Motor,roi_0419_overlap_with_fROI_Motor_02_3mm.rex.tal,2,Precentral_R,Precental gyrus,PreCG.R,41.37,-8.21,52.09
+362,418,419,Motor,roi_0420_overlap_with_fROI_Motor_02_3mm.rex.tal,70,Paracentral_Lobule_R,Paracentral lobule,PCL.R,7.48,-31.59,68.09
+363,419,420,Motor,roi_0421_overlap_with_fROI_Motor_03_3mm.rex.tal,20,Supp_Motor_Area_R,Supplementary motor area,SMA.R,8.62,0.17,61.85
+364,420,421,Motor,roi_0422_overlap_with_fROI_Motor_05_3mm.rex.tal,56,Fusiform_R,Fusiform gyrus,FFG.R,33.97,-39.1,-20.18
+365,421,422,Motor,roi_0423_overlap_with_fROI_Motor_05_3mm.rex.tal,48,Lingual_R,Lingual gyrus,LING.R,16.29,-66.93,-3.87
+366,422,423,Motor,roi_0424_overlap_with_fROI_Motor_05_3mm.rex.tal,47,Lingual_L,Lingual gyrus,LING.L,-14.62,-67.56,-4.63
+367,423,424,Motor,roi_0425_overlap_with_fROI_Motor_05_3mm.rex.tal,47,Lingual_L,Lingual gyrus,LING.L,-14.62,-67.56,-4.63
+368,358,359,Auditory,roi_0360_overlap_with_fROI_Auditory_01_3mm.rex.tal,79,Heschl_L,Heschl gyrus,HES.L,-41.99,-18.88,9.98
+369,359,360,Auditory,roi_0361_overlap_with_fROI_Auditory_01_3mm.rex.tal,81,Temporal_Sup_L,Superior temporal gyrus,STG.L,-53.16,-20.68,7.13
+370,360,361,Auditory,roi_0362_overlap_with_fROI_Auditory_01_3mm.rex.tal,81,Temporal_Sup_L,Superior temporal gyrus,STG.L,-53.16,-20.68,7.13
+371,361,362,Auditory,roi_0363_overlap_with_fROI_Auditory_02_3mm.rex.tal,18,Rolandic_Oper_R,Rolandic operculum,ROL.R,52.65,-6.25,14.63
+372,362,363,Basal,roi_0364_overlap_with_fROI_Basal_Ganglia_01_3mm.rex.tal,76,Pallidum_R,Lenticular nucleus pallidum,PAL.R,21.2,0.18,0.23
+373,363,364,Basal,roi_0365_overlap_with_fROI_Basal_Ganglia_01_3mm.rex.tal,76,Pallidum_R,Lenticular nucleus pallidum,PAL.R,21.2,0.18,0.23
+374,364,365,Basal,roi_0366_overlap_with_fROI_Basal_Ganglia_02_3mm.rex.tal,75,Pallidum_L,Lenticular nucleus pallidum,PAL.L,-17.75,-0.03,0.21
+375,365,366,Basal,roi_0367_overlap_with_fROI_Basal_Ganglia_02_3mm.rex.tal,73,Putamen_L,Lenticular nucleus putamen,PUT.L,-23.91,3.86,2.4
+376,366,367,Basal,roi_0368_overlap_with_fROI_Basal_Ganglia_03_3mm.rex.tal,11,Frontal_Inf_Oper_L,Inferior frontal gyrus opercular part,IFGoperc.L,-48.43,12.73,19.02
+377,367,368,Basal,roi_0369_overlap_with_fROI_Basal_Ganglia_04_3mm.rex.tal,14,Frontal_Inf_Tri_R,Inferior frontal gyrus triangular part,IFGtriang.R,50.33,30.16,14.17
+378,368,369,Basal,roi_0370_overlap_with_fROI_Basal_Ganglia_05_3mm.rex.tal,39,ParaHippocampal_L,Parahippocampal gyrus,PHG.L,-21.17,-15.95,-20.7
+379,369,370,dDMN,roi_0371_overlap_with_fROI_dDMN_01_3mm.rex.tal,3,Frontal_Sup_L,Superior frontal gyrus dorsolateral,SFGdor.L,-18.45,34.81,42.2
+380,370,371,dDMN,roi_0372_overlap_with_fROI_dDMN_01_3mm.rex.tal,24,Frontal_Sup_Medial_R,Superior frontal gyrus medial,SFGmed.R,9.1,50.84,30.22
+381,371,372,dDMN,roi_0373_overlap_with_fROI_dDMN_01_3mm.rex.tal,31,Cingulum_Ant_L,Anterior cingulate and paracingulate gyri,ACG.L,-4.04,35.4,13.95
+382,372,373,dDMN,roi_0374_overlap_with_fROI_dDMN_01_3mm.rex.tal,23,Frontal_Sup_Medial_L,Superior frontal gyrus medial,SFGmed.L,-4.8,49.17,30.89
+383,373,374,dDMN,roi_0375_overlap_with_fROI_dDMN_01_3mm.rex.tal,31,Cingulum_Ant_L,Anterior cingulate and paracingulate gyri,ACG.L,-4.04,35.4,13.95
+384,374,375,dDMN,roi_0376_overlap_with_fROI_dDMN_01_3mm.rex.tal,25,Frontal_Mid_Orb_L,Superior frontal gyrus medial orbital,ORBsupmed.L,-5.17,54.06,-7.4
+385,375,376,dDMN,roi_0377_overlap_with_fROI_dDMN_01_3mm.rex.tal,26,Frontal_Mid_Orb_R,Superior frontal gyrus medial orbital,ORBsupmed.R,8.16,51.67,-7.13
+386,376,377,dDMN,roi_0378_overlap_with_fROI_dDMN_01_3mm.rex.tal,31,Cingulum_Ant_L,Anterior cingulate and paracingulate gyri,ACG.L,-4.04,35.4,13.95
+387,377,378,dDMN,roi_0379_overlap_with_fROI_dDMN_01_3mm.rex.tal,23,Frontal_Sup_Medial_L,Superior frontal gyrus medial,SFGmed.L,-4.8,49.17,30.89
+388,378,379,dDMN,roi_0380_overlap_with_fROI_dDMN_01_3mm.rex.tal,27,Rectus_L,Gyrus rectus,REC.L,-5.08,37.07,-18.14
+389,379,380,dDMN,roi_0381_overlap_with_fROI_dDMN_01_3mm.rex.tal,25,Frontal_Mid_Orb_L,Superior frontal gyrus medial orbital,ORBsupmed.L,-5.17,54.06,-7.4
+390,380,381,dDMN,roi_0382_overlap_with_fROI_dDMN_02_3mm.rex.tal,65,Angular_L,Angular gyrus,ANG.L,-44.14,-60.82,35.59
+391,381,382,dDMN,roi_0383_overlap_with_fROI_dDMN_03_3mm.rex.tal,4,Frontal_Sup_R,Superior frontal gyrus dorsolateral,SFGdor.R,21.9,31.12,43.82
+392,382,383,dDMN,roi_0384_overlap_with_fROI_dDMN_04_3mm.rex.tal,35,Cingulum_Post_L,Posterior cingulate gyrus,PCG.L,-4.85,-42.92,24.67
+393,383,384,dDMN,roi_0385_overlap_with_fROI_dDMN_04_3mm.rex.tal,68,Precuneus_R,Precuneus,PCUN.R,9.98,-56.05,43.77
+394,384,385,dDMN,roi_0386_overlap_with_fROI_dDMN_04_3mm.rex.tal,35,Cingulum_Post_L,Posterior cingulate gyrus,PCG.L,-4.85,-42.92,24.67
+395,385,386,dDMN,roi_0387_overlap_with_fROI_dDMN_05_3mm.rex.tal,34,Cingulum_Mid_R,Median cingulate and paracingulate gyri,DCG.R,8.02,-8.83,39.79
+396,386,387,dDMN,roi_0388_overlap_with_fROI_dDMN_06_3mm.rex.tal,66,Angular_R,Angular gyrus,ANG.R,45.51,-59.98,38.63
+397,387,388,dDMN,roi_0389_overlap_with_fROI_dDMN_07_3mm.rex.tal,77,Thalamus_L,Thalamus,THA.L,-10.85,-17.56,7.98
+398,388,389,dDMN,roi_0390_overlap_with_fROI_dDMN_08_3mm.rex.tal,37,Hippocampus_L,Hippocampus,HIP.L,-25.03,-20.74,-10.13
+399,389,390,dDMN,roi_0391_overlap_with_fROI_dDMN_09_3mm.rex.tal,40,ParaHippocampal_R,Parahippocampal gyrus,PHG.R,25.38,-15.15,-20.47
+400,390,391,high,roi_0392_overlap_with_fROI_high_Visual_01_3mm.rex.tal,53,Occipital_Inf_L,Inferior occipital gyrus,IOG.L,-36.36,-78.29,-7.84
+401,391,392,high,roi_0393_overlap_with_fROI_high_Visual_02_3mm.rex.tal,54,Occipital_Inf_R,Inferior occipital gyrus,IOG.R,38.16,-81.99,-7.61
+402,392,393,high,roi_0394_overlap_with_fROI_high_Visual_02_3mm.rex.tal,54,Occipital_Inf_R,Inferior occipital gyrus,IOG.R,38.16,-81.99,-7.61
+403,393,394,high,roi_0395_overlap_with_fROI_high_Visual_02_3mm.rex.tal,50,Occipital_Sup_R,Superior occipital gyrus,SOG.R,24.29,-80.85,30.59
+404,394,395,Language,roi_0396_overlap_with_fROI_Language_01_3mm.rex.tal,15,Frontal_Inf_Orb_L,Inferior frontal gyrus orbital part,ORBinf.L,-35.98,30.71,-12.11
+405,395,396,Language,roi_0397_overlap_with_fROI_Language_03_3mm.rex.tal,85,Temporal_Mid_L,Middle temporal gyrus,MTG.L,-55.52,-33.8,-2.2
+406,396,397,Language,roi_0398_overlap_with_fROI_Language_04_3mm.rex.tal,65,Angular_L,Angular gyrus,ANG.L,-44.14,-60.82,35.59
+407,397,398,Language,roi_0399_overlap_with_fROI_Language_04_3mm.rex.tal,63,SupraMarginal_L,Supramarginal gyrus,SMG.L,-55.79,-33.64,30.45
+408,398,399,Language,roi_0400_overlap_with_fROI_Language_04_3mm.rex.tal,65,Angular_L,Angular gyrus,ANG.L,-44.14,-60.82,35.59
+409,399,400,Language,roi_0401_overlap_with_fROI_Language_05_3mm.rex.tal,16,Frontal_Inf_Orb_R,Inferior frontal gyrus orbital part,ORBinf.R,41.22,32.23,-11.91
+410,400,401,Language,roi_0402_overlap_with_fROI_Language_06_3mm.rex.tal,86,Temporal_Mid_R,Middle temporal gyrus,MTG.R,57.47,-37.23,-1.47
+411,401,402,Language,roi_0403_overlap_with_fROI_Language_06_3mm.rex.tal,86,Temporal_Mid_R,Middle temporal gyrus,MTG.R,57.47,-37.23,-1.47
+412,402,403,Language,roi_0404_overlap_with_fROI_Language_07_3mm.rex.tal,53,Occipital_Inf_L,Inferior occipital gyrus,IOG.L,-36.36,-78.29,-7.84
+413,403,404,LECN,roi_0405_overlap_with_fROI_LECN_01_3mm.rex.tal,3,Frontal_Sup_L,Superior frontal gyrus dorsolateral,SFGdor.L,-18.45,34.81,42.2
+414,404,405,LECN,roi_0406_overlap_with_fROI_LECN_01_3mm.rex.tal,7,Frontal_Mid_L,Middle frontal gyrus,MFG.L,-33.43,32.73,35.46
+415,405,406,LECN,roi_0407_overlap_with_fROI_LECN_01_3mm.rex.tal,3,Frontal_Sup_L,Superior frontal gyrus dorsolateral,SFGdor.L,-18.45,34.81,42.2
+416,406,407,LECN,roi_0408_overlap_with_fROI_LECN_01_3mm.rex.tal,7,Frontal_Mid_L,Middle frontal gyrus,MFG.L,-33.43,32.73,35.46
+417,407,408,LECN,roi_0409_overlap_with_fROI_LECN_02_3mm.rex.tal,9,Frontal_Mid_Orb_L,Middle frontal gyrus orbital part,ORBmid.L,-30.65,50.43,-9.62
+418,408,409,LECN,roi_0410_overlap_with_fROI_LECN_03_3mm.rex.tal,65,Angular_L,Angular gyrus,ANG.L,-44.14,-60.82,35.59
+419,409,410,LECN,roi_0411_overlap_with_fROI_LECN_03_3mm.rex.tal,61,Parietal_Inf_L,Inferior parietal but supramarginal and angular gyri,IPL.L,-42.8,-45.82,46.74
+420,410,411,LECN,roi_0412_overlap_with_fROI_LECN_03_3mm.rex.tal,59,Parietal_Sup_L,Superior parietal gyrus,SPG.L,-23.45,-59.56,58.96
+421,411,412,LECN,roi_0413_overlap_with_fROI_LECN_04_3mm.rex.tal,85,Temporal_Mid_L,Middle temporal gyrus,MTG.L,-55.52,-33.8,-2.2
+422,412,413,LECN,roi_0414_overlap_with_fROI_LECN_05_3mm.rex.tal,56,Fusiform_R,Fusiform gyrus,FFG.R,33.97,-39.1,-20.18
+423,424,425,post,roi_0426_overlap_with_fROI_post_Salience_01_3mm.rex.tal,7,Frontal_Mid_L,Middle frontal gyrus,MFG.L,-33.43,32.73,35.46
+424,425,426,post,roi_0427_overlap_with_fROI_post_Salience_02_3mm.rex.tal,63,SupraMarginal_L,Supramarginal gyrus,SMG.L,-55.79,-33.64,30.45
+425,426,427,post,roi_0428_overlap_with_fROI_post_Salience_02_3mm.rex.tal,63,SupraMarginal_L,Supramarginal gyrus,SMG.L,-55.79,-33.64,30.45
+426,427,428,post,roi_0429_overlap_with_fROI_post_Salience_03_3mm.rex.tal,67,Precuneus_L,Precuneus,PCUN.L,-7.24,-56.07,48.01
+427,428,429,post,roi_0430_overlap_with_fROI_post_Salience_04_3mm.rex.tal,34,Cingulum_Mid_R,Median cingulate and paracingulate gyri,DCG.R,8.02,-8.83,39.79
+428,429,430,post,roi_0431_overlap_with_fROI_post_Salience_05_3mm.rex.tal,60,Parietal_Sup_R,Superior parietal gyrus,SPG.R,26.11,-59.18,62.06
+429,430,431,post,roi_0432_overlap_with_fROI_post_Salience_05_3mm.rex.tal,60,Parietal_Sup_R,Superior parietal gyrus,SPG.R,26.11,-59.18,62.06
+430,431,432,post,roi_0433_overlap_with_fROI_post_Salience_06_3mm.rex.tal,64,SupraMarginal_R,Supramarginal gyrus,SMG.R,57.61,-31.5,34.48
+431,432,433,post,roi_0434_overlap_with_fROI_post_Salience_06_3mm.rex.tal,64,SupraMarginal_R,Supramarginal gyrus,SMG.R,57.61,-31.5,34.48
+432,433,434,post,roi_0435_overlap_with_fROI_post_Salience_07_3mm.rex.tal,77,Thalamus_L,Thalamus,THA.L,-10.85,-17.56,7.98
+433,434,435,post,roi_0436_overlap_with_fROI_post_Salience_08_3mm.rex.tal,55,Fusiform_L,Fusiform gyrus,FFG.L,-31.16,-40.3,-20.23
+434,435,436,post,roi_0437_overlap_with_fROI_post_Salience_09_3mm.rex.tal,37,Hippocampus_L,Hippocampus,HIP.L,-25.03,-20.74,-10.13
+435,436,437,post,roi_0438_overlap_with_fROI_post_Salience_12_3mm.rex.tal,42,Amygdala_R,Amygdala,AMYG.R,27.32,0.64,-17.5
+436,437,438,Precuneus,roi_0439_overlap_with_fROI_Precuneus_01_3mm.rex.tal,36,Cingulum_Post_R,Posterior cingulate gyrus,PCG.R,7.44,-41.81,21.87
+437,438,439,Precuneus,roi_0440_overlap_with_fROI_Precuneus_02_3mm.rex.tal,68,Precuneus_R,Precuneus,PCUN.R,9.98,-56.05,43.77
+438,439,440,Precuneus,roi_0441_overlap_with_fROI_Precuneus_02_3mm.rex.tal,68,Precuneus_R,Precuneus,PCUN.R,9.98,-56.05,43.77
+439,440,441,Precuneus,roi_0442_overlap_with_fROI_Precuneus_02_3mm.rex.tal,45,Cuneus_L,Cuneus,CUN.L,-5.93,-80.13,27.22
+440,441,442,Precuneus,roi_0443_overlap_with_fROI_Precuneus_03_3mm.rex.tal,65,Angular_L,Angular gyrus,ANG.L,-44.14,-60.82,35.59
+441,442,443,Precuneus,roi_0444_overlap_with_fROI_Precuneus_04_3mm.rex.tal,66,Angular_R,Angular gyrus,ANG.R,45.51,-59.98,38.63
+442,443,444,prim,roi_0445_overlap_with_fROI_prim_Visual_01_3mm.rex.tal,43,Calcarine_L,Calcarine fissure and surrounding cortex,CAL.L,-7.14,-78.67,6.44
+443,444,445,prim,roi_0446_overlap_with_fROI_prim_Visual_01_3mm.rex.tal,47,Lingual_L,Lingual gyrus,LING.L,-14.62,-67.56,-4.63
+444,445,446,RECN,roi_0447_overlap_with_fROI_RECN_01_3mm.rex.tal,8,Frontal_Mid_R,Middle frontal gyrus,MFG.R,37.59,33.06,34.04
+445,446,447,RECN,roi_0448_overlap_with_fROI_RECN_01_3mm.rex.tal,8,Frontal_Mid_R,Middle frontal gyrus,MFG.R,37.59,33.06,34.04
+446,447,448,RECN,roi_0449_overlap_with_fROI_RECN_01_3mm.rex.tal,4,Frontal_Sup_R,Superior frontal gyrus dorsolateral,SFGdor.R,21.9,31.12,43.82
+447,448,449,RECN,roi_0450_overlap_with_fROI_RECN_01_3mm.rex.tal,8,Frontal_Mid_R,Middle frontal gyrus,MFG.R,37.59,33.06,34.04
+448,449,450,RECN,roi_0451_overlap_with_fROI_RECN_02_3mm.rex.tal,10,Frontal_Mid_Orb_R,Middle frontal gyrus orbital part,ORBmid.R,33.18,52.59,-10.73
+449,450,451,RECN,roi_0452_overlap_with_fROI_RECN_03_3mm.rex.tal,66,Angular_R,Angular gyrus,ANG.R,45.51,-59.98,38.63
+450,451,452,RECN,roi_0453_overlap_with_fROI_RECN_03_3mm.rex.tal,62,Parietal_Inf_R,Inferior parietal but supramarginal and angular gyri,IPL.R,46.46,-46.29,49.54
+451,452,453,RECN,roi_0454_overlap_with_fROI_RECN_03_3mm.rex.tal,62,Parietal_Inf_R,Inferior parietal but supramarginal and angular gyri,IPL.R,46.46,-46.29,49.54
+452,453,454,RECN,roi_0455_overlap_with_fROI_RECN_04_3mm.rex.tal,4,Frontal_Sup_R,Superior frontal gyrus dorsolateral,SFGdor.R,21.9,31.12,43.82
+453,454,455,RECN,roi_0456_overlap_with_fROI_RECN_05_3mm.rex.tal,55,Fusiform_L,Fusiform gyrus,FFG.L,-31.16,-40.3,-20.23
+454,455,456,RECN,roi_0457_overlap_with_fROI_RECN_05_3mm.rex.tal,53,Occipital_Inf_L,Inferior occipital gyrus,IOG.L,-36.36,-78.29,-7.84
+455,456,457,RECN,roi_0458_overlap_with_fROI_RECN_05_3mm.rex.tal,53,Occipital_Inf_L,Inferior occipital gyrus,IOG.L,-36.36,-78.29,-7.84
+456,457,458,RECN,roi_0459_overlap_with_fROI_RECN_05_3mm.rex.tal,47,Lingual_L,Lingual gyrus,LING.L,-14.62,-67.56,-4.63
+457,116,117,RECN,roi_0117_subthresh_overlap_with_fROI_RECN_06_3mm.rex.tal,72,Caudate_R,Caudate nucleus,CAU.R,14.84,12.07,9.42
+458,458,459,Salience,roi_0460_overlap_with_fROI_Salience_01_3mm.rex.tal,7,Frontal_Mid_L,Middle frontal gyrus,MFG.L,-33.43,32.73,35.46
+459,459,460,Salience,roi_0461_overlap_with_fROI_Salience_02_3mm.rex.tal,29,Insula_L,Insula,INS.L,-35.13,6.65,3.44
+460,460,461,Salience,roi_0462_overlap_with_fROI_Salience_03_3mm.rex.tal,19,Supp_Motor_Area_L,Supplementary motor area,SMA.L,-5.32,4.85,61.38
+461,461,462,Salience,roi_0463_overlap_with_fROI_Salience_03_3mm.rex.tal,31,Cingulum_Ant_L,Anterior cingulate and paracingulate gyri,ACG.L,-4.04,35.4,13.95
+462,462,463,Salience,roi_0464_overlap_with_fROI_Salience_03_3mm.rex.tal,19,Supp_Motor_Area_L,Supplementary motor area,SMA.L,-5.32,4.85,61.38
+463,463,464,Salience,roi_0465_overlap_with_fROI_Salience_03_3mm.rex.tal,19,Supp_Motor_Area_L,Supplementary motor area,SMA.L,-5.32,4.85,61.38
+464,464,465,Salience,roi_0466_overlap_with_fROI_Salience_03_3mm.rex.tal,19,Supp_Motor_Area_L,Supplementary motor area,SMA.L,-5.32,4.85,61.38
+465,465,466,Salience,roi_0467_overlap_with_fROI_Salience_03_3mm.rex.tal,20,Supp_Motor_Area_R,Supplementary motor area,SMA.R,8.62,0.17,61.85
+466,466,467,Salience,roi_0468_overlap_with_fROI_Salience_04_3mm.rex.tal,8,Frontal_Mid_R,Middle frontal gyrus,MFG.R,37.59,33.06,34.04
+467,467,468,Salience,roi_0469_overlap_with_fROI_Salience_05_3mm.rex.tal,30,Insula_R,Insula,INS.R,39.02,6.25,2.08
+468,468,469,Salience,roi_0470_overlap_with_fROI_Salience_06_3mm.rex.tal,55,Fusiform_L,Fusiform gyrus,FFG.L,-31.16,-40.3,-20.23
+469,469,470,Salience,roi_0471_overlap_with_fROI_Salience_07_3mm.rex.tal,56,Fusiform_R,Fusiform gyrus,FFG.R,33.97,-39.1,-20.18
+470,470,471,vDMN,roi_0472_overlap_with_fROI_vDMN_01_3mm.rex.tal,35,Cingulum_Post_L,Posterior cingulate gyrus,PCG.L,-4.85,-42.92,24.67
+471,471,472,vDMN,roi_0473_overlap_with_fROI_vDMN_02_3mm.rex.tal,19,Supp_Motor_Area_L,Supplementary motor area,SMA.L,-5.32,4.85,61.38
+472,472,473,vDMN,roi_0474_overlap_with_fROI_vDMN_03_3mm.rex.tal,55,Fusiform_L,Fusiform gyrus,FFG.L,-31.16,-40.3,-20.23
+473,473,474,vDMN,roi_0475_overlap_with_fROI_vDMN_04_3mm.rex.tal,51,Occipital_Mid_L,Middle occipital gyrus,MOG.L,-32.39,-80.73,16.11
+474,474,475,vDMN,roi_0476_overlap_with_fROI_vDMN_05_3mm.rex.tal,36,Cingulum_Post_R,Posterior cingulate gyrus,PCG.R,7.44,-41.81,21.87
+475,475,476,vDMN,roi_0477_overlap_with_fROI_vDMN_06_3mm.rex.tal,67,Precuneus_L,Precuneus,PCUN.L,-7.24,-56.07,48.01
+476,476,477,vDMN,roi_0478_overlap_with_fROI_vDMN_06_3mm.rex.tal,68,Precuneus_R,Precuneus,PCUN.R,9.98,-56.05,43.77
+477,477,478,vDMN,roi_0479_overlap_with_fROI_vDMN_06_3mm.rex.tal,67,Precuneus_L,Precuneus,PCUN.L,-7.24,-56.07,48.01
+478,478,479,vDMN,roi_0480_overlap_with_fROI_vDMN_06_3mm.rex.tal,68,Precuneus_R,Precuneus,PCUN.R,9.98,-56.05,43.77
+479,479,480,vDMN,roi_0481_overlap_with_fROI_vDMN_07_3mm.rex.tal,4,Frontal_Sup_R,Superior frontal gyrus dorsolateral,SFGdor.R,21.9,31.12,43.82
+480,480,481,vDMN,roi_0482_overlap_with_fROI_vDMN_07_3mm.rex.tal,4,Frontal_Sup_R,Superior frontal gyrus dorsolateral,SFGdor.R,21.9,31.12,43.82
+481,481,482,vDMN,roi_0483_overlap_with_fROI_vDMN_08_3mm.rex.tal,56,Fusiform_R,Fusiform gyrus,FFG.R,33.97,-39.1,-20.18
+482,482,483,vDMN,roi_0484_overlap_with_fROI_vDMN_09_3mm.rex.tal,52,Occipital_Mid_R,Middle occipital gyrus,MOG.R,37.39,-79.7,19.42
+483,483,484,Visuospatial,roi_0485_overlap_with_fROI_Visuospatial_01_3mm.rex.tal,1,Precentral_L,Precental gyrus,PreCG.L,-38.65,-5.68,50.94
+484,484,485,Visuospatial,roi_0486_overlap_with_fROI_Visuospatial_02_3mm.rex.tal,61,Parietal_Inf_L,Inferior parietal but supramarginal and angular gyri,IPL.L,-42.8,-45.82,46.74
+485,485,486,Visuospatial,roi_0487_overlap_with_fROI_Visuospatial_02_3mm.rex.tal,61,Parietal_Inf_L,Inferior parietal but supramarginal and angular gyri,IPL.L,-42.8,-45.82,46.74
+486,486,487,Visuospatial,roi_0488_overlap_with_fROI_Visuospatial_02_3mm.rex.tal,59,Parietal_Sup_L,Superior parietal gyrus,SPG.L,-23.45,-59.56,58.96
+487,487,488,Visuospatial,roi_0489_overlap_with_fROI_Visuospatial_02_3mm.rex.tal,59,Parietal_Sup_L,Superior parietal gyrus,SPG.L,-23.45,-59.56,58.96
+488,488,489,Visuospatial,roi_0490_overlap_with_fROI_Visuospatial_03_3mm.rex.tal,11,Frontal_Inf_Oper_L,Inferior frontal gyrus opercular part,IFGoperc.L,-48.43,12.73,19.02
+489,489,490,Visuospatial,roi_0491_overlap_with_fROI_Visuospatial_03_3mm.rex.tal,13,Frontal_Inf_Tri_L,Inferior frontal gyrus triangular part,IFGtriang.L,-45.58,29.91,13.99
+490,490,491,Visuospatial,roi_0492_overlap_with_fROI_Visuospatial_04_3mm.rex.tal,53,Occipital_Inf_L,Inferior occipital gyrus,IOG.L,-36.36,-78.29,-7.84
+491,491,492,Visuospatial,roi_0493_overlap_with_fROI_Visuospatial_05_3mm.rex.tal,2,Precentral_R,Precental gyrus,PreCG.R,41.37,-8.21,52.09
+492,492,493,Visuospatial,roi_0494_overlap_with_fROI_Visuospatial_06_3mm.rex.tal,60,Parietal_Sup_R,Superior parietal gyrus,SPG.R,26.11,-59.18,62.06
+493,493,494,Visuospatial,roi_0495_overlap_with_fROI_Visuospatial_06_3mm.rex.tal,58,Postcentral_R,Postcentral gyrus,PoCG.R,41.43,-25.49,52.55
+494,494,495,Visuospatial,roi_0496_overlap_with_fROI_Visuospatial_07_3mm.rex.tal,12,Frontal_Inf_Oper_R,Inferior frontal gyrus opercular part,IFGoperc.R,50.2,14.98,21.41
+495,495,496,Visuospatial,roi_0497_overlap_with_fROI_Visuospatial_08_3mm.rex.tal,86,Temporal_Mid_R,Middle temporal gyrus,MTG.R,57.47,-37.23,-1.47
+496,496,497,Visuospatial,roi_0498_overlap_with_fROI_Visuospatial_10_3mm.rex.tal,54,Occipital_Inf_R,Inferior occipital gyrus,IOG.R,38.16,-81.99,-7.61
+497,497,498,Visuospatial,roi_0499_overlap_with_fROI_Visuospatial_11_3mm.rex.tal,54,Occipital_Inf_R,Inferior occipital gyrus,IOG.R,38.16,-81.99,-7.61
