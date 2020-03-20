@@ -1,4 +1,4 @@
 # PTAB_network_instability
-The repository contains scripts used for computing network instability biomarker.
+This repository contains scripts for computing brain network instability, a biomarker for brain aging.
 
-See github wiki for details.
+See github wiki (https://github.com/BotondA/PTAB_network_instability/wiki) for details.
