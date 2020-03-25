@@ -18,6 +18,7 @@ import itertools
 import pandas as pd
 from nilearn import image
 from nilearn.input_data import NiftiLabelsMasker
+import multiprocessing as mp
 from multiprocessing import Pool
 
 # =============================================================================
@@ -30,10 +31,7 @@ WORKDIR = HOMEDIR + "data/fmriprep/"
 OUTDIR = HOMEDIR + "data/time_series/"
 
 # Settings
-N_NODES = 8  # Number of nodes to be used for computation
 CUTOFF = 20  # Trimming time-series
-
-print(f"Number of nodes to be used for computing time-series: {N_NODES}")
 
 # Get run identifiers
 subjects = [int(subid) for subid in sys.argv[1:]]  # Subject IDs from bash script
@@ -65,9 +63,16 @@ def comp_timeseries(item):
                          "sub-{0:0>3}_ses-{1}_task-{2}_run-{3}_desc-confounds_"
                          "regressors.tsv") \
                          .format(item[0], item[1].lower(), item[2], item[3])
-
+    
+    # checking if files are there
+    for fp in [bold_fp, conf_fp]:
+        if not(os.path.isfile(fp)):
+            print(fp, ' missing. Can not proceed.')
+            return 1
+    
     # Load the image and drop first n frames
     func_img = image.index_img(image.load_img(bold_fp), slice(CUTOFF, None))
+    print(item, ' func_img loaded')
 
     # Load confounds
     confounds = pd.read_csv(conf_fp, sep='\t') \
@@ -87,6 +92,7 @@ def comp_timeseries(item):
                                'rot_x',
                                'rot_y',
                                'rot_z']]
+    print(item, ' confounds loaded')
 
     # Create parcellation object with additional pre-processing parameters
     willard_mask = NiftiLabelsMasker(willard_img, detrend=True,
@@ -97,15 +103,21 @@ def comp_timeseries(item):
     # Process and perform parcellation
     roi_time_series = willard_mask.fit_transform(func_img,
                                               confounds=confounds.values)
-
+    print(item, ' roi_time_series obtained')
+    
     # Write into csv
     csv_data = pd.DataFrame(roi_time_series)
     csv_data.to_csv(OUTDIR + "sub-{0:0>3}_ses-{1}_task-{2}_run-" \
                     "{3}.csv".format(item[0], item[1].lower(), item[2], item[3]),
                                header=False, index=False)
+    print(item, ' time-series stores')
 
-# Run computation through multiprocessing
+    return 0
+
+
+# Run computation
 if __name__ == '__main__':
-    pool = Pool(processes=N_NODES)
-    pool.map(comp_timeseries, items)
-
+    for item in items:
+        comp_timeseries(item)
+    
+    print('done computing time-series')
