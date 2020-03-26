@@ -18,8 +18,6 @@ import itertools
 import pandas as pd
 from nilearn import image
 from nilearn.input_data import NiftiLabelsMasker
-import multiprocessing as mp
-from multiprocessing import Pool
 
 # =============================================================================
 # Setup
