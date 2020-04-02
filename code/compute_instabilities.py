@@ -8,7 +8,7 @@ whole: whole brain
 unlabeled: unlabeled
 Motor: motor
 Auditory: auditory
-Basal: basal ganglia
+Basal: basal
 dDMN: dorsal default mode network
 high: high visual
 Language: language
@@ -60,6 +60,10 @@ merged_csv_data = []
 # Get annotated subregions
 # =============================================================================
 
+# Use this if computing network instabilities for functional ROIs, not just for
+# the whole brain:
+
+# Get functional ROI labels
 func_label_data = pd.read_csv(HOMEDIR + \
                               "utils/functional_anatomical_willard.csv")
 func_labels = func_label_data["network"].unique()  # Get func region labels
@@ -70,12 +74,18 @@ func_labels = np.insert(func_labels, 0, "whole")
 ids = np.arange(NUM_ROI_TOTAL)
 func_subnet_ixs["whole"] = np.array(list(itertools.product(ids, ids))).T
 
-# Then extract indexes and take their product for each func region label
+# Then get indexes and take their product for each func region label
 for label in func_labels[1:]:
-    ids = func_label_data.loc[func_label_data["network"] == label, "index"] \
-        .to_numpy()
+    ids = func_label_data.loc[func_label_data["network"] == label, "roi"] \
+        .to_numpy() - 1
     func_subnet_ixs[f"{label}"] = \
         np.array(list(itertools.product(ids, ids))).T
+
+# # Use this if computing network instabilities only for the whole brain:
+# func_labels = np.array(["whole"])
+# func_subnet_ixs = {}
+# ids = np.arange(NUM_ROI_TOTAL)
+# func_subnet_ixs["whole"] = np.array(list(itertools.product(ids, ids))).T
 
 # =============================================================================
 # Read in time-series and calculate instabilities
