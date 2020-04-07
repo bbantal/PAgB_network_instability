@@ -1,26 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 This script takes pre-processed ROI space time-series and calculates brain
-network instabilities for whole brain and for subnetworks shown below:
-
-Subnetwork labels:
-whole: whole brain
-unlabeled: unlabeled
-Motor: motor
-Auditory: auditory
-Basal: basal
-dDMN: dorsal default mode network
-high: high visual
-Language: language
-LECN: left executive control network
-post: posterior salience
-Precuneus: precuneus
-prim: primary visual
-RECN: right executive control network
-Salience: salience
-vDMN: ventral default mode networ
-Visuospatial: visuospatial
-
+network instabilities for whole brain and for functional networks if provided.
 """
 
 import os
@@ -60,6 +41,12 @@ merged_csv_data = []
 # Get annotated subregions
 # =============================================================================
 
+# # Use this if computing network instabilities only for the whole brain:
+# func_labels = np.array(["whole"])
+# func_subnet_ixs = {}
+# ids = np.arange(NUM_ROI_TOTAL)
+# func_subnet_ixs["whole"] = np.array(list(itertools.product(ids, ids))).T
+
 # Use this if computing network instabilities for functional ROIs, not just for
 # the whole brain:
 
@@ -81,11 +68,6 @@ for label in func_labels[1:]:
     func_subnet_ixs[f"{label}"] = \
         np.array(list(itertools.product(ids, ids))).T
 
-# # Use this if computing network instabilities only for the whole brain:
-# func_labels = np.array(["whole"])
-# func_subnet_ixs = {}
-# ids = np.arange(NUM_ROI_TOTAL)
-# func_subnet_ixs["whole"] = np.array(list(itertools.product(ids, ids))).T
 
 # =============================================================================
 # Read in time-series and calculate instabilities
