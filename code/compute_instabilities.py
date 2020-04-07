@@ -163,9 +163,9 @@ def calculate_instabilities(item):
             # Extract diffs corresponding to (sub)network
             subnet_diffs = diffs[:, ixs[0], ixs[1]]
 
-            # Take l2norm and normalize with number of nodes - 1(for diagonal)
+            # Take l2norm and normalize with sqrt(n) (-1 for diagonal)
             subnets_instab[j][:len(diffs)] = np.linalg.norm(subnet_diffs, axis=1) \
-                /np.sqrt(len(ixs.T)-1)
+                /np.sqrt(np.sqrt(len(ixs.T))*np.sqrt(len(ixs.T)-1))
 
         # Store instabilities
         instabilities_all[i] = list(subnets_instab)
