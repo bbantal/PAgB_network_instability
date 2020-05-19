@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 This script takes pre-processed ROI space time-series and calculates brain
-network instabilities for whole brain and for functional networks if provided.
+network instabilities for whole brain + for functional subnetworks (optional).
 """
 
 import os
@@ -34,39 +34,41 @@ runs = ["1", "2"]
 # Items to be analyzed
 items = list(itertools.product(subjects, sessions, tasks, runs))
 
-# Preallocate
+# Initiate list for storing final computed values
 merged_csv_data = []
 
 # =============================================================================
 # Get annotated subregions
 # =============================================================================
 
-# # Use this if computing network instabilities only for the whole brain:
-# func_labels = np.array(["whole"])
-# func_subnet_ixs = {}
-# ids = np.arange(NUM_ROI_TOTAL)
-# func_subnet_ixs["whole"] = np.array(list(itertools.product(ids, ids))).T
-
-# Use this if computing network instabilities for functional ROIs, not just for
-# the whole brain:
-
-# Get functional ROI labels
-func_label_data = pd.read_csv(HOMEDIR + \
-                              "utils/functional_anatomical_willard.csv")
-func_labels = func_label_data["network"].unique()  # Get func region labels
-func_subnet_ixs = {}  # Dictionary for storing ROI indexes of each func region
-
-# First create item for whole brain
-func_labels = np.insert(func_labels, 0, "whole")
+# -------
+# Use this if computing network instabilities only for the whole brain:
+func_labels = np.array(["whole"])
+func_subnet_ixs = {}
 ids = np.arange(NUM_ROI_TOTAL)
 func_subnet_ixs["whole"] = np.array(list(itertools.product(ids, ids))).T
 
-# Then get indexes and take their product for each func region label
-for label in func_labels[1:]:
-    ids = func_label_data.loc[func_label_data["network"] == label, "roi"] \
-        .to_numpy() - 1
-    func_subnet_ixs[f"{label}"] = \
-        np.array(list(itertools.product(ids, ids))).T
+# -------
+## Use this if computing network instabilities for functional ROIs, not just for
+## the whole brain:
+
+## Get functional ROI labels
+#func_label_data = pd.read_csv(HOMEDIR + \
+#                              "utils/functional_anatomical_willard.csv")
+#func_labels = func_label_data["network"].unique()  # Get func region labels
+#func_subnet_ixs = {}  # Dictionary for storing ROI indexes of each func region
+#
+## First create item for whole brain
+#func_labels = np.insert(func_labels, 0, "whole")
+#ids = np.arange(NUM_ROI_TOTAL)
+#func_subnet_ixs["whole"] = np.array(list(itertools.product(ids, ids))).T
+#
+## Then get indexes and take their product for each func region label
+#for label in func_labels[1:]:
+#    ids = func_label_data.loc[func_label_data["network"] == label, "roi"] \
+#        .to_numpy() - 1
+#    func_subnet_ixs[f"{label}"] = \
+#        np.array(list(itertools.product(ids, ids))).T
 
 
 # =============================================================================
@@ -119,15 +121,17 @@ def calculate_instabilities(item):
     # method: elementwise difference of correlations of two time windows
     # separated by tau, then l2norm of the differences
 
-    tau_vals = np.arange(1, len(corr_matrices))  # Range of tau values
-    instabilities_all = [None] * len(tau_vals)  # Array for storing
-    # instability values
+    # Range of tau values
+    tau_vals = np.arange(1, len(corr_matrices))
+
+    # Array for storing instability values
+    instabilities_all = [None] * len(tau_vals)
 
     # Loop through all taus
     for i, tau in enumerate(tau_vals):
 
-        # Pairs of windows which the elementwise difference of correlations
-        # is taken between
+        # Pairs of windows between which the elementwise differences of
+        # correlations are taken
         window_pairs = [[start, start + tau] \
                    for start in range(len(corr_matrices) - tau)]
 
@@ -139,21 +143,22 @@ def calculate_instabilities(item):
         # Preallocate for storing, filled with nans
         subnets_instab = np.full((len(func_subnet_ixs), len(tau_vals)), np.nan)
 
-        # Loop through all subnetworks
+        # Loop through all subnetworks (only one network if whole brain only)
         for j, ixs in enumerate(func_subnet_ixs.values()):
 
-            # Extract diffs corresponding to (sub)network
+            # Extract previoulsy computed elementwise differences for current
+            # (sub)network
             subnet_diffs = diffs[:, ixs[0], ixs[1]]
 
-            # Take l2norm and normalize with sqrt(n) (-1 for diagonal)
+            # Take l2norm and normalize with sqrt(n*(n-1))
             subnets_instab[j][:len(diffs)] = np.linalg.norm(subnet_diffs, axis=1) \
                 /np.sqrt(np.sqrt(len(ixs.T))*(np.sqrt(len(ixs.T))-1))
 
-        # Store instabilities
+        # Store computed instabilities for current tau
         instabilities_all[i] = list(subnets_instab)
 
-    # Make csv data
-    # -------------
+    # Make csv output
+    # ---------------
 
     # Labels
     dflabels_A = pd.DataFrame(
@@ -183,16 +188,19 @@ def calculate_instabilities(item):
         .xs('value', axis=1, drop_level=True) \
         [func_labels]
 
+    # Return the final output for current item
     return csv_data
 
 # Loop through all items
 for item in items:
+
+    # Print current item
     print("Computing instabilities for:", item)
 
-    # Call the function to calculate intabilities for current run
+    # Call the function that calculates intabilities for current item (=run)
     calculated_instabs = calculate_instabilities(item)
 
-    # Add calculated instabilities to output data
+    # Add calculated instabilities to final output csv
     merged_csv_data.append(calculated_instabs)
 
 # =============================================================================
