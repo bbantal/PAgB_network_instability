@@ -165,9 +165,6 @@ diff.name = "instability_diff"
 # Descriptive stats
 # -----------------
 stats_des = diff \
-    .groupby(["subject", "task", "bolus", "tau"]) \
-    .agg(["mean"]) \
-    .xs("mean", axis=1, drop_level=True) \
     .groupby(["task", "bolus", "tau"]) \
     .agg(["mean", "sem"]) \
     .unstack(level="bolus")

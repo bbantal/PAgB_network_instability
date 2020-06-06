@@ -1,4 +1,4 @@
-name: ptab
+name: pagb
 channels:
   - conda-forge
   - defaults

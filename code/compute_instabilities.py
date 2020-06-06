@@ -21,7 +21,7 @@ WORKDIR = HOMEDIR + "data/time_series/"
 OUTDIR = HOMEDIR + "data/instabilities/"
 
 # Important inputs
-TOTAL_LENGTH = 720  # Total length of the timeseries (number of frames)
+TOTAL_LENGTH = 720  # or 740 # Total length of the timeseries (number of frames)
 WINDOW_LENGTH = 30  # Length of one time window (number of frames)
 NUM_ROI_TOTAL = 498  # Number of ROIs
 
