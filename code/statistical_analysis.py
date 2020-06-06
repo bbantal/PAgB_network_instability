@@ -442,9 +442,6 @@ stats_des = data_long \
     .query(f'task == "{task}"') \
     .reset_index("task", drop=True) \
     ["instability"] \
-    .groupby(["subject", "bolus", "PrePost", "tau"]) \
-    .agg(["mean"]) \
-    .xs("mean", axis=1, drop_level=True) \
     .groupby(["bolus", "PrePost", "tau"]) \
     .agg(["mean", "sem"]) \
     .unstack(["bolus", "PrePost"])
